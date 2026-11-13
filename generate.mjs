@@ -58,6 +58,8 @@ This page is the plain list. On [Sifter](${SITE}/jobs), free for students with a
 - save roles, follow firms and get a reminder before a role closes
 - track your applications
 
+Sifter is also where students build the record that goes with an application: on the [Training Floor](${SITE}/training-floor) you make dated stock calls with your reasoning, and the results stay on a [Sifter Card](${SITE}/sifter-card) you can send to an employer.
+
 Sifter is the platform for student investors and the funds they run, built by university professors. It also has a [free DCF model](${SITE}/dcf), a [free textbook on portfolio performance](${SITE}/textbook) and the [Sifter Card](${SITE}/sifter-card), an investing record a student can show an employer.
 
 ${sections.map(([t, list]) => `## ${t}\n\n${table(list)}`).join('\n\n')}
