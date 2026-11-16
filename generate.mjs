@@ -60,6 +60,24 @@ This page is the plain list. On [Sifter](${SITE}/jobs), free for students with a
 
 Sifter is also where students build the record that goes with an application: on the [Training Floor](${SITE}/training-floor) you make dated stock calls with your reasoning, and the results stay on a [Sifter Card](${SITE}/sifter-card) you can send to an employer.
 
+## Ask an AI assistant
+
+This repository is also an MCP server, so Claude and other AI assistants can answer questions from the list: "which investment banking internships in New York close this week?", "who is hiring quant interns for summer 2027?", "which roles for the class of 2028 state their pay?"
+
+It reads the same public list as this page. No account and no key. It needs Node 18 or later.
+
+Claude Code:
+
+\`\`\`bash
+claude mcp add finance-internships -- npx -y github:sifterfinance/finance-internships
+\`\`\`
+
+Claude Desktop, Cursor and others (in the MCP settings file):
+
+\`\`\`json
+{ "mcpServers": { "finance-internships": { "command": "npx", "args": ["-y", "github:sifterfinance/finance-internships"] } } }
+\`\`\`
+
 Sifter is the platform for student investors and the funds they run, built by university professors. It also has a [free DCF model](${SITE}/dcf), a [free textbook on portfolio performance](${SITE}/textbook) and the [Sifter Card](${SITE}/sifter-card), an investing record a student can show an employer.
 
 ${sections.map(([t, list]) => `## ${t}\n\n${table(list)}`).join('\n\n')}

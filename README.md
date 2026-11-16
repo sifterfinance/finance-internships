@@ -2,14 +2,14 @@
 
 Open internships and entry-level roles at banks, asset managers, research shops, trading firms and wealth managers, in the order they close. Every link goes to the firm's own posting.
 
-**998 open roles at 223 firms as of Nov 15, 2026.** The list is rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
+**987 open roles at 221 firms as of Nov 16, 2026.** The list is rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
 
 ## Contents
 
-- [Closing in the next seven days (86)](#closing-in-the-next-seven-days-86)
-- [Summer 2027 internships (418)](#summer-2027-internships-418)
-- [Summer 2028 internships (97)](#summer-2028-internships-97)
-- [Other internships (214)](#other-internships-214)
+- [Closing in the next seven days (85)](#closing-in-the-next-seven-days-85)
+- [Summer 2027 internships (416)](#summer-2027-internships-416)
+- [Summer 2028 internships (89)](#summer-2028-internships-89)
+- [Other internships (213)](#other-internships-213)
 - [Full-time roles for new graduates (269)](#full-time-roles-for-new-graduates-269)
 
 ## Get more from the board
@@ -23,23 +23,30 @@ This page is the plain list. On [Sifter](https://sifter.finance/jobs), free for 
 
 Sifter is also where students build the record that goes with an application: on the [Training Floor](https://sifter.finance/training-floor) you make dated stock calls with your reasoning, and the results stay on a [Sifter Card](https://sifter.finance/sifter-card) you can send to an employer.
 
+## Ask an AI assistant
+
+This repository is also an MCP server, so Claude and other AI assistants can answer questions from the list: "which investment banking internships in New York close this week?", "who is hiring quant interns for summer 2027?", "which roles for the class of 2028 state their pay?"
+
+It reads the same public list as this page. No account and no key. It needs Node 18 or later.
+
+Claude Code:
+
+```bash
+claude mcp add finance-internships -- npx -y github:sifterfinance/finance-internships
+```
+
+Claude Desktop, Cursor and others (in the MCP settings file):
+
+```json
+{ "mcpServers": { "finance-internships": { "command": "npx", "args": ["-y", "github:sifterfinance/finance-internships"] } } }
+```
+
 Sifter is the platform for student investors and the funds they run, built by university professors. It also has a [free DCF model](https://sifter.finance/dcf), a [free textbook on portfolio performance](https://sifter.finance/textbook) and the [Sifter Card](https://sifter.finance/sifter-card), an investing record a student can show an employer.
 
-## Closing in the next seven days (86)
+## Closing in the next seven days (85)
 
 | Firm | Role | Location | Area | Apply by |
 |---|---|---|---|---|
-| American Century Investments | [Systematic Credit Intern](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759) | New York, NY | Asset management | Nov 15, 2026 |
-| Deloitte | [Audit & Assurance Intern – Financial Statement Audit – Winter 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Winter-2027/360300) | New York, NY | Risk, finance & operations | Nov 15, 2026 |
-| Dodge & Cox | [2028 Investment Associate Internship](https://dodgeandcox.wd5.myworkdayjobs.com/Dodgecox/job/San-Francisco-Office/XMLNAME-2028-Investment-Associate-Internship_R0000676) | San Francisco, CA | Asset management | Nov 15, 2026 |
-| Evercore | [2028 Capital Markets Advisory: Equity Capital Markets Summer Analyst Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3257-2028-Capital-Markets-Advisory-Equity-Capital-Markets-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Equities: Equity Research Summer Intern Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3262-2028-Equities-Equity-Research-Summer-Intern-Program-New-York/en-GB) | New York, NY | Equity research | Nov 15, 2026 |
-| Evercore | [2028 Equities: Sales & Trading Summer Intern Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3260-2028-Equities-Sales-Trading-Summer-Intern-Program-New-York/en-GB) | New York, NY | Sales & trading | Nov 15, 2026 |
-| Evercore | [2028 Liability Management & Restructuring Summer Analyst Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3255-2028-Liability-Management-Restructuring-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: M&A Summer Analyst Program – New York Generalist](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3220-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-New-York-Generalist/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: M&A Summer Analyst Program, Houston Energy](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3248-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-Houston-Energy/en-GB) | Houston, TX | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: Mergers & Acquisitions Summer Analyst Program – Menlo Park / San Francisco Technology](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3250-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-Menlo-Park-San-Francisco-Technology/en-GB) | Menlo Park, CA | Investment banking | Nov 15, 2026 |
-| Rothschild & Co | [US Global Advisory 2027 Sophomore Leadership Program](https://rothschildandco.tal.net/vx/lang-en-GB/appcentre-1/candidate/postings/553) | New York, NY | Investment banking | Nov 15, 2026 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Finance (Toronto)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016023) | Toronto, ON | Risk, finance & operations | Nov 16, 2026 |
 | Barclays | [Investment Bank Diversified Industries, Analyst](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Toronto-Bay-Wellington-Tower-L47/Investment-Bank-Diversified-Industries--Analyst_JR-0000138735) | Toronto, ON | Investment banking | Nov 16, 2026 |
 | CIBC | [Analyst - Funding & Liquidity Management co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst---Funding---Liquidity-Management-co-op_2621646) | Toronto, ON | Risk, finance & operations | Nov 16, 2026 |
@@ -115,13 +122,21 @@ Sifter is the platform for student investors and the funds they run, built by un
 | BMO | [BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-1) | Montreal, QC | Investment banking | Nov 22, 2026 |
 | RBC Royal Bank | [Fund Analyst](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Fund-Analyst_R-0000192672-1) | Toronto, ON | Asset management | Nov 22, 2026 |
 | Truist | [2027 Wholesale Client Coverage & Credit Summer Intern](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wholesale-Client-Coverage---Credit-Summer-Intern--Internship-_R0121545) | Multiple | Credit & lending | Nov 22, 2026 |
+| Fiserv | [2027 Finance & Accounting Internship Program](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Milwaukee-Wisconsin/XMLNAME-2027-Finance---Accounting-Internship-Program--Milwaukee--WI-_R-10403814) | Milwaukee, WI | Risk, finance & operations | Nov 23, 2026 |
+| John Hancock | [Winter Co-op 2027-US Retirement Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027-US-Retirement-Analyst_JR26100985) | Boston, MA | Other | Nov 23, 2026 |
+| Manulife | [Summer Intern 2027 - Enterprise Strategy](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Enterprise-Strategy_JR26091796) | Toronto, ON | Risk, finance & operations | Nov 23, 2026 |
+| Manulife | [Summer Intern 2027 - Strategy Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Strategy-Analyst_JR26100105) | Toronto, ON | Risk, finance & operations | Nov 23, 2026 |
+| Manulife | [Summer Intern 2027 - Venture Capital](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932) | Toronto, ON | Asset management | Nov 23, 2026 |
+| Manulife | [Winter Co-op 2027 – Accounting Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Accounting-Analyst_JR26090172) | Toronto, ON | Risk, finance & operations | Nov 23, 2026 |
+| PwC | [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) | Multiple | Risk, finance & operations | Nov 23, 2026 |
+| Santander | [CIB Emerging Markets & Foreign Exchange Institutional Sales Analyst](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Markets-Analyst---Institutional-Sales_Req1626323) | New York, NY | Sales & trading | Nov 23, 2026 |
+| Santander | [Investment Banking Analyst, Industrials](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst--Industrials_Req1610227) | New York, NY | Investment banking | Nov 23, 2026 |
+| Scotiabank | [2027 Canada UpLIFTED: Women in Finance Development Program](https://jobs.scotiabank.com/job/Toronto-2027-Canada-UpLIFTED-Women-in-Finance-Development-Program-ON/607808317/) | Toronto, ON | Other | Nov 23, 2026 |
 
-## Summer 2027 internships (418)
+## Summer 2027 internships (416)
 
 | Firm | Role | Location | Area | Apply by |
 |---|---|---|---|---|
-| Deloitte | [Audit & Assurance Intern – Financial Statement Audit – Winter 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Winter-2027/360300) | New York, NY | Risk, finance & operations | Nov 15, 2026 |
-| Rothschild & Co | [US Global Advisory 2027 Sophomore Leadership Program](https://rothschildandco.tal.net/vx/lang-en-GB/appcentre-1/candidate/postings/553) | New York, NY | Investment banking | Nov 15, 2026 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Finance (Toronto)](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016023) | Toronto, ON | Risk, finance & operations | Nov 16, 2026 |
 | CIBC | [First Nations, Inuit, or Métis Students - Winter 2027 Co-op and Internship Opportunities](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/First-Nations--Inuit--or-Mtis-Students---Winter-2027-Co-op-and-Internship-Opportunities_2616392) | Toronto, ON | Other | Nov 16, 2026 |
 | Santander | [2027 Central Risk Operations Summer Intern](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/XMLNAME-2027-Central-Risk-Operations-Summer-Intern_Req1633035) | Dallas, TX | Risk, finance & operations | Nov 16, 2026 |
@@ -539,18 +554,10 @@ Sifter is the platform for student investors and the funds they run, built by un
 | Wintrust | [2027 Summer Internship: Wealth Management](https://wintrust.wd1.myworkdayjobs.com/Search/job/Chicago-IL/Wintrust-2027-Summer-Internship--Wealth-Management_261937) | Chicago, IL | Wealth management | Rolling |
 | Wintrust | [Wintrust 2027 Summer Internship: Finance/Accounting](https://wintrust.wd1.myworkdayjobs.com/Search/job/Rosemont-IL/Wintrust-2027-Summer-Internship--Finance-Accounting_261941-1) | Rosemont, IL | Risk, finance & operations | Rolling |
 
-## Summer 2028 internships (97)
+## Summer 2028 internships (89)
 
 | Firm | Role | Location | Area | Apply by |
 |---|---|---|---|---|
-| Dodge & Cox | [2028 Investment Associate Internship](https://dodgeandcox.wd5.myworkdayjobs.com/Dodgecox/job/San-Francisco-Office/XMLNAME-2028-Investment-Associate-Internship_R0000676) | San Francisco, CA | Asset management | Nov 15, 2026 |
-| Evercore | [2028 Capital Markets Advisory: Equity Capital Markets Summer Analyst Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3257-2028-Capital-Markets-Advisory-Equity-Capital-Markets-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Equities: Equity Research Summer Intern Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3262-2028-Equities-Equity-Research-Summer-Intern-Program-New-York/en-GB) | New York, NY | Equity research | Nov 15, 2026 |
-| Evercore | [2028 Equities: Sales & Trading Summer Intern Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3260-2028-Equities-Sales-Trading-Summer-Intern-Program-New-York/en-GB) | New York, NY | Sales & trading | Nov 15, 2026 |
-| Evercore | [2028 Liability Management & Restructuring Summer Analyst Program](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3255-2028-Liability-Management-Restructuring-Summer-Analyst-Program-New-York/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: M&A Summer Analyst Program – New York Generalist](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3220-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-New-York-Generalist/en-GB) | New York, NY | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: M&A Summer Analyst Program, Houston Energy](https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3248-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-Houston-Energy/en-GB) | Houston, TX | Investment banking | Nov 15, 2026 |
-| Evercore | [2028 Strategic Advisory: Mergers & Acquisitions Summer Analyst Program – Menlo Park / San Francisco Technology](https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3250-2028-Strategic-Advisory-Mergers-Acquisitions-Summer-Analyst-Program-Menlo-Park-San-Francisco-Technology/en-GB) | Menlo Park, CA | Investment banking | Nov 15, 2026 |
 | PwC | [Audit - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD) | Multiple | Risk, finance & operations | Nov 24, 2026 |
 | PwC | [Tax - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2028_757656WD) | Multiple | Risk, finance & operations | Nov 24, 2026 |
 | Deloitte | [Audit & Assurance – Intern – Financial Statement Audit (Japanese Services Group) – Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Japanese-Services-Group-Winter-2028/368640) | Multiple | Risk, finance & operations | Nov 29, 2026 |
@@ -641,11 +648,10 @@ Sifter is the platform for student investors and the funds they run, built by un
 | The Raine Group | [2028 Summer Analyst](https://jobs.lever.co/raine/e07652af-67ae-4d64-a2ad-6ba4b203c132) | New York, NY | Investment banking | Rolling |
 | Truist | [2028 Energy, Oil & Gas Investment Banking Summer Analyst](https://truist.wd1.myworkdayjobs.com/Careers/job/Houston-TX/XMLNAME-2028-Truist-Securities---Energy--Oil---Gas-Investment-Banking---Summer-Analyst-Program---Houston--TX_R0121314-1) | Houston, TX | Investment banking | Rolling |
 
-## Other internships (214)
+## Other internships (213)
 
 | Firm | Role | Location | Area | Apply by |
 |---|---|---|---|---|
-| American Century Investments | [Systematic Credit Intern](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759) | New York, NY | Asset management | Nov 15, 2026 |
 | CIBC | [Analyst - Funding & Liquidity Management co-op](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst---Funding---Liquidity-Management-co-op_2621646) | Toronto, ON | Risk, finance & operations | Nov 16, 2026 |
 | Susquehanna | [Discovery Program: Quantitative Trading and Quantitative Strategy Development](https://careers.sig.com/jobs/11148) | New York, NY | Quant | Nov 16, 2026 |
 | PNC | [Corporate & Institutional Banking Undergraduate Intern – Business Credit](https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago/Corporate---Institutional-Banking-Undergraduate-Intern---Business-Credit_R230898-1) | Multiple | Credit & lending | Nov 17, 2026 |

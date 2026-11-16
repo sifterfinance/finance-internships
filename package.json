@@ -1,0 +1,11 @@
+{
+  "name": "sifter-finance-internships",
+  "version": "1.0.0",
+  "description": "MCP server for open finance internships and first jobs for students, from the Sifter jobs board.",
+  "type": "module",
+  "bin": { "sifter-finance-internships": "mcp.mjs" },
+  "files": ["mcp.mjs"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://sifter.finance/jobs",
+  "repository": { "type": "git", "url": "git+https://github.com/sifterfinance/finance-internships.git" }
+}
