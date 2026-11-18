@@ -11,7 +11,7 @@ const data = SOURCE.startsWith('http')
 const jobs = data.jobs || []
 if (jobs.length < 50) throw new Error(`only ${jobs.length} listings, keeping the old list`)
 
-const AREAS = { investment_banking: 'Investment banking', sales_trading: 'Sales & trading', asset_management: 'Asset management', equity_research: 'Equity research', wealth_management: 'Wealth management', quant: 'Quant', credit: 'Credit & lending', corporate: 'Risk, finance & operations', other: 'Other' }
+const AREAS = { investment_banking: 'Investment banking', sales_trading: 'Sales & trading', asset_management: 'Asset management', equity_research: 'Equity research', wealth_management: 'Wealth management', quant: 'Quant', credit: 'Credit & lending', corporate_finance: 'Corporate finance', accounting: 'Accounting & audit', consulting: 'Consulting & economics', risk_compliance: 'Risk & compliance', client_service: 'Client service & sales', operations: 'Operations', other: 'Other' }
 const area = (a) => AREAS[a] || (a ? a.replace(/_/g, ' ').replace(/^./, c => c.toUpperCase()) : '')
 const cell = (s) => String(s ?? '').replace(/\|/g, '/').replace(/[\r\n]+/g, ' ').trim()
 const day = (iso) => new Date(`${iso}T12:00:00Z`).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' })

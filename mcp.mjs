@@ -21,7 +21,12 @@ const AREAS = {
   wealth_management: 'Wealth management',
   quant: 'Quant',
   credit: 'Credit & lending',
-  corporate: 'Risk, finance & operations',
+  corporate_finance: 'Corporate finance',
+  accounting: 'Accounting & audit',
+  consulting: 'Consulting & economics',
+  risk_compliance: 'Risk & compliance',
+  client_service: 'Client service & sales',
+  operations: 'Operations',
   other: 'Other',
 }
 const AREA_KEYS = Object.keys(AREAS)
@@ -134,7 +139,7 @@ const FILTERS = {
   query: { type: 'string', description: 'Words that must all appear in the firm, role title, location or area. Example: "private equity analyst".' },
   firm: { type: 'string', description: 'Part of a firm\'s name. Example: "Goldman".' },
   kind: { type: 'string', enum: ['internship', 'full_time'], description: 'internship, or full_time for entry-level roles for new graduates.' },
-  area: { type: 'string', enum: AREA_KEYS, description: 'The part of finance. corporate means risk, finance and operations; credit means credit and lending.' },
+  area: { type: 'string', enum: AREA_KEYS, description: 'The part of finance. corporate_finance means FP&A, treasury and finance programs; consulting includes economic research; credit means credit and lending.' },
   location: { type: 'string', description: 'Part of a city or state as written on the board. Examples: "New York", "TX", "Chicago". Roles in several cities are listed as "Multiple".' },
   class_year: { type: 'integer', description: 'Graduation year the role is open to. Example: 2028. Roles that do not state class years are left out when this is set.' },
   summer: { type: 'string', description: 'The summer an internship runs. Example: "2027".' },
