@@ -2,25 +2,25 @@
 
 Open internships and entry-level roles at banks, asset managers, research shops, trading firms and wealth managers, sorted by deadline. Every link goes to the firm's own posting.
 
-**1201 open roles at 255 firms as of Nov 21, 2026.** Rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
+**1212 open roles at 258 firms as of Nov 22, 2026.** Rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
 
 If the list is useful, a star helps other students find it.
 
 ## Contents
 
-- [New this week (180)](#new-this-week-180)
-- [Closing in the next seven days (48)](#closing-in-the-next-seven-days-48)
-- [Summer 2027 finance internships (418)](#summer-2027-finance-internships-418)
-- [Summer 2028 finance internships (108)](#summer-2028-finance-internships-108)
+- [New this week (192)](#new-this-week-192)
+- [Closing in the next seven days (50)](#closing-in-the-next-seven-days-50)
+- [Summer 2027 finance internships (416)](#summer-2027-finance-internships-416)
+- [Summer 2028 finance internships (109)](#summer-2028-finance-internships-109)
 - [Open to first-year students, class of 2030 (42)](#open-to-first-year-students-class-of-2030-42)
-- [Open to sophomores, class of 2029 (188)](#open-to-sophomores-class-of-2029-188)
-- [Other internships (232)](#other-internships-232)
+- [Open to sophomores, class of 2029 (184)](#open-to-sophomores-class-of-2029-184)
+- [Other internships (244)](#other-internships-244)
 - [Full-time roles for new graduates (443)](#full-time-roles-for-new-graduates-443)
 - [Filter, save and get reminders on Sifter](#filter-save-and-get-reminders-on-sifter)
 - [Ask an AI assistant](#ask-an-ai-assistant)
 - [About this list](#about-this-list)
 
-## New this week (180)
+## New this week (192)
 
 | Firm | Role | Location | Area | Class of | Opened | Apply by |
 |---|---|---|---|---|---|---|
@@ -69,6 +69,21 @@ If the list is useful, a star helps other students find it.
 | BDO | [Tax Intern, Transfer Pricing (Summer 2027)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11779) | Detroit, MI | Consulting & economics |  | Nov 19, 2026 | Rolling |
 | BlackRock | [Analyst, Sustainable Investing Research and Analytics, BlackRock Investment Institute](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/Analyst--Sustainable-Investing-Research-and-Analytics--BlackRock-Investment-Institute_R267217) | Multiple | Asset management |  | Nov 19, 2026 | Dec 31, 2026 |
 | BMO | [Commercial Credit Analyst Internship (Summer 2027)](https://bmo.wd3.myworkdayjobs.com/External/job/Minneapolis-MN-USA/Commercial-Credit-Analyst-Internship---Minneapolis--MN--Summer-2027---Rising-Juniors-Only_R260032076) | Minneapolis, MN | Credit & lending |  | Nov 19, 2026 | Dec 10, 2026 |
+| Calamos Investments | [Corporate Accounting Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=1269407f-27be-4e94-933d-accfb69ef1da) | Naperville, IL | Accounting & audit |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Fund Administration Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=140a0289-925c-400a-8410-ac1b6db0206b) | Chicago, IL | Operations |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Fund Administration Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=e0f4bbd5-8bc3-4a2b-a807-a19133a8ce37) | Naperville, IL | Operations |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Investment Operations Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=f9ed6451-4497-47a9-b647-9fcb977e8361) | Naperville, IL | Operations |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Portfolio Specialist Intern (Summer 2027)](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=ae299fdd-213c-4e3d-94f3-08ae4e368e6d) | Naperville, IL | Asset management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Product Development Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=78d5645f-037c-4bf3-8c39-dbf9f070080d) | Multiple | Asset management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Product Reporting Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=2812594b-baa8-4323-a318-57dfcc0e4054) | Naperville, IL | Asset management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Research Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=4b6ae47d-988c-48a9-be54-686e5bdd50e7) | Multiple | Asset management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Sales Support Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=02fc2703-dc90-47f4-8f2f-ac23ff4298fd) | Chicago, IL | Client service & sales |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Sales Support Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=91687e7e-d43e-46a1-a30a-ff4d795cc964) | Naperville, IL | Client service & sales |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Sales Support Intern - RIA](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=29b20720-164a-4c42-9582-788cd266dcfc) | New York, NY | Client service & sales |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Strategy and Deals Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=58aeed64-ee9e-44eb-8ece-ee5299103703) | Chicago, IL | Corporate finance |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Wealth Management Intern - Investments](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=852b0e5e-b290-41e1-bc64-7aec9aa3c864) | Chicago, IL | Wealth management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Wealth Management Intern – Data Analytics & Client Service](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=2245eb78-875e-4c95-87d9-61205a27580d) | Chicago, IL | Wealth management |  | Nov 19, 2026 | Rolling |
+| Calamos Investments | [Wealth Management Intern – Financial Planning](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=6b299014-5f9a-41c5-af04-4443898d5c50) | Chicago, IL | Wealth management |  | Nov 19, 2026 | Rolling |
 | Charles Schwab | [2027 SOX Compliance Intern](https://career-schwab.icims.com/jobs/126253/2027-sox-compliance-intern/job) | Lone Tree, CO | Risk & compliance |  | Nov 19, 2026 | Nov 24, 2026 |
 | Chubb | [Underwriting Intern (Summer 2027)](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38715) | Chattanooga, TN | Risk & compliance |  | Nov 19, 2026 | Rolling |
 | Citi | [Commercial Banking Summer Analyst (2027)](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683) | San Francisco, CA | Credit & lending |  | Nov 19, 2026 | Rolling |
@@ -131,8 +146,6 @@ If the list is useful, a star helps other students find it.
 | RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WEYBURN-Saskatchewan-Canada/Relationship-Manager-Intern--Business-Markets_R-0000192930-1) | Weyburn, SK | Credit & lending |  | Nov 18, 2026 | Dec 2, 2026 |
 | S&P Global | [Analyst, Index Management](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332964-1) | New York, NY | Quant |  | Nov 18, 2026 | Rolling |
 | Santander | [Analyst, Leveraged Finance Capital Markets](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Analyst--Leveraged-Finance-Capital-Markets_Req1635573) | New York, NY | Credit & lending |  | Nov 18, 2026 | Dec 31, 2026 |
-| TD | [Analyst - CIB Credit - CM&T, TD Securities](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Analyst---CIB-Credit---CM-T--TD-Securities_R_1523074) | New York, NY | Credit & lending |  | Nov 18, 2026 | Nov 22, 2026 |
-| TD | [Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1) | Toronto, ON | Risk & compliance |  | Nov 18, 2026 | Nov 22, 2026 |
 | UMB | [Credit Analyst - Agricultural](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/CA---Fresno----255-E-River-Park-Cir-Suite-180/Credit-Analyst---Agricultural_R-9738) | Fresno, CA | Credit & lending |  | Nov 18, 2026 | Rolling |
 | UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) | Charlottesville, VA | Asset management | 2029 | Nov 18, 2026 | Rolling |
 | Voya Investment Management | [IM Entry Level Analyst Program-Jr. Portfolio Analyst](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433) | Atlanta, GA | Asset management |  | Nov 18, 2026 | Rolling |
@@ -169,7 +182,6 @@ If the list is useful, a star helps other students find it.
 | State Street | [State Street Product Office - Summer Internship 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Office---Summer-Internship-2027_R-801221) | Boston, MA | Asset management |  | Nov 17, 2026 | Dec 1, 2026 |
 | State Street | [State Street Product Team - Alternatives Business - 2027 Summer Internship](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Team---Alternatives-Business---2027-Summer-Internship_R-801222) | Boston, MA | Asset management |  | Nov 17, 2026 | Dec 1, 2026 |
 | Stifel | [Third-Party Risk Management Analyst](https://careers-stifel.icims.com/jobs/10293/third-party-risk-management-analyst/job) | Saint Louis, MO | Risk & compliance |  | Nov 17, 2026 | Rolling |
-| TD | [Risk Management - Small Business Banking Offers - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1) | Toronto, ON | Risk & compliance |  | Nov 17, 2026 | Nov 21, 2026 |
 | The Riverside Company | [2027 Summer Internship, Fund Administration](https://job-boards.greenhouse.io/theriversidecompany/jobs/8949043002) | Cleveland, OH | Asset management | 2028, 2029 | Nov 17, 2026 | Rolling |
 | U.S. Bank | [Impact Finance - Affordable Housing Real Estate Financial Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Louis-MO/Impact-Finance---Affordable-Housing-Real-Estate-Financial-Analyst_2026-0036069) | Multiple | Corporate finance |  | Nov 17, 2026 | Dec 8, 2026 |
 | Walker & Dunlop | [Analyst, Asset Management](https://walkerdunlop.wd1.myworkdayjobs.com/WD/job/Calabasas-CA-USA/Analyst--Asset-Management_Req-2026) | Multiple | Asset management |  | Nov 17, 2026 | Rolling |
@@ -205,19 +217,11 @@ If the list is useful, a star helps other students find it.
 | Voya Investment Management | [Analyst - Manager Research](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Analyst---Manager-Research_JR0033023) | New York, NY | Asset management |  | Nov 16, 2026 | Rolling |
 | Western Alliance Bank | [Commercial Banking Development Program - Credit Analyst - Phoenix, AZ - Specialty Finance](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/Commercial-Banking-Development-Program---Credit-Analyst---Phoenix--AZ----Specialty-Finance_R14095) | Multiple | Credit & lending |  | Nov 16, 2026 | Rolling |
 
-## Closing in the next seven days (48)
+## Closing in the next seven days (50)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| Federal Reserve Board | [Year-Round Intern 2027 – Enterprise Risk and Assurance – RBOPS](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Year-Round-Intern-2027---Enterprise-Risk-and-Assurance---RBOPS_R026034) | Washington, DC | Accounting & audit |  | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216) | Bellingham, WA | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217) | Albany, OR | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225) | Toledo, OH | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| TD | [Risk Management - Small Business Banking Offers - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1) | Toronto, ON | Risk & compliance |  | Nov 21, 2026 |
 | BMO | [BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-1) | Montreal, QC | Investment banking | 2027 | Nov 22, 2026 |
-| RBC Royal Bank | [Fund Analyst](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Fund-Analyst_R-0000192672-1) | Toronto, ON | Asset management |  | Nov 22, 2026 |
-| TD | [Analyst - CIB Credit - CM&T, TD Securities](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Analyst---CIB-Credit---CM-T--TD-Securities_R_1523074) | New York, NY | Credit & lending |  | Nov 22, 2026 |
-| TD | [Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1) | Toronto, ON | Risk & compliance |  | Nov 22, 2026 |
 | Truist | [2027 Wholesale Client Coverage & Credit Summer Intern](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wholesale-Client-Coverage---Credit-Summer-Intern--Internship-_R0121545) | Multiple | Credit & lending | 2028 | Nov 22, 2026 |
 | Wells Fargo | [Corporate Banking Analyst, Fund Finance Portfolio Management](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-585144) | Charlotte, NC | Credit & lending |  | Nov 22, 2026 |
 | John Hancock | [Winter Co-op 2027-US Retirement Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027-US-Retirement-Analyst_JR26100985) | Boston, MA | Other |  | Nov 23, 2026 |
@@ -257,15 +261,21 @@ If the list is useful, a star helps other students find it.
 | Federal Reserve Bank of Atlanta | [2027 Summer Internship Program - Supervision & Regulation (Professional Development Group)](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Professional-Development-Group-_R-0000033864) | Atlanta, GA | Risk & compliance |  | Nov 28, 2026 |
 | Fifth Third | [Commercial Participation Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Farmington-Hills-MI/Commercial-Participation-Analyst_R74617) | Farmington Hills, MI | Credit & lending |  | Nov 28, 2026 |
 | UMB | [Fund Accountant Intern](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Milwaukee-WI/Fund-Accountant-Intern_R-8264) | Milwaukee, WI | Accounting & audit |  | Nov 28, 2026 |
+| BDO | [Tax Intern, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11775) | Atlanta, GA | Accounting & audit |  | Nov 29, 2026 |
+| Deloitte | [Audit & Assurance – Intern – Financial Statement Audit (Japanese Services Group) – Summer 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Japanese-Services-Group-Summer-2027/361864) | Multiple | Accounting & audit |  | Nov 29, 2026 |
+| Deloitte | [Audit & Assurance – Intern – Financial Statement Audit (Japanese Services Group) – Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Japanese-Services-Group-Winter-2028/368640) | Multiple | Accounting & audit |  | Nov 29, 2026 |
+| Fiserv | [2027 Finance & Accounting Internship](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) | Alpharetta, GA | Accounting & audit | 2028, 2029 | Nov 29, 2026 |
+| Jefferies | [U.S. Women in Research Mentorship Program](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2024-Class-of-2029-U-S-Women-in-Research-Mentorship-Program/en-GB) | New York, NY | Equity research | 2029 | Nov 29, 2026 |
+| Santander | [Credit Risk, Leveraged Finance Summer Intern (2027)](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Credit-Risk---Leveraged-Finance-Summer-Intern_Req1636233) | New York, NY | Credit & lending |  | Nov 29, 2026 |
+| Santander | [Market Risk Summer Intern (2027)](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216) | New York, NY | Risk & compliance |  | Nov 29, 2026 |
+| Santander | [Operational Risk Management Summer Intern (2027)](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Operational-Risk-Management-Summer-Intern_Req1636235) | New York, NY | Risk & compliance |  | Nov 29, 2026 |
+| U.S. Bank | [USD Rates Trading Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/USD-Rates-Analyst_2026-0022674) | Charlotte, NC | Sales & trading |  | Nov 29, 2026 |
+| Wells Fargo | [CIB Markets Program Analyst - Commercial Rates & FX Sales](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHICAGO-IL/CIB-Markets-Program-Analyst---Commercial-Rates---FX-Sales_R-586793) | Chicago, IL | Sales & trading |  | Nov 29, 2026 |
 
-## Summer 2027 finance internships (418)
+## Summer 2027 finance internships (416)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| Federal Reserve Board | [Year-Round Intern 2027 – Enterprise Risk and Assurance – RBOPS](https://bd.wd104.myworkdayjobsgov.com/frb/job/Federal-Reserve-Board/Year-Round-Intern-2027---Enterprise-Risk-and-Assurance---RBOPS_R026034) | Washington, DC | Accounting & audit |  | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216) | Bellingham, WA | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217) | Albany, OR | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225) | Toledo, OH | Wealth management | 2028, 2029 | Nov 21, 2026 |
 | Truist | [2027 Wholesale Client Coverage & Credit Summer Intern](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/XMLNAME-2027-Wholesale-Client-Coverage---Credit-Summer-Intern--Internship-_R0121545) | Multiple | Credit & lending | 2028 | Nov 22, 2026 |
 | John Hancock | [Winter Co-op 2027-US Retirement Analyst](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Winter-Co-op-2027-US-Retirement-Analyst_JR26100985) | Boston, MA | Other |  | Nov 23, 2026 |
 | Manulife | [Summer Intern 2027 - Enterprise Strategy](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Enterprise-Strategy_JR26091796) | Toronto, ON | Other |  | Nov 23, 2026 |
@@ -463,6 +473,7 @@ If the list is useful, a star helps other students find it.
 | Brattle Group | [Research Analyst Intern (Economics & Finance) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735791005) | New York, NY | Consulting & economics |  | Rolling |
 | Brattle Group | [Research Analyst Intern (Economics) - Summer 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735674005) | Washington, DC | Consulting & economics |  | Rolling |
 | BRG | [2027 Summer Associate (Intern) - Corporate Finance - Healthcare Transaction Advisory](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Nashville-TN/XMLNAME-2027-Summer-Associate--Intern----Corporate-Finance---Healthcare-Transaction-Advisory---Nashville--TN_JR101035) | Nashville, TN | Investment banking | 2028 | Rolling |
+| Calamos Investments | [Portfolio Specialist Intern (Summer 2027)](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=ae299fdd-213c-4e3d-94f3-08ae4e368e6d) | Naperville, IL | Asset management |  | Rolling |
 | Capstone Investment Advisors | [Summer 2027 - Investment Internship NYC](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8827973002) | New York, NY | Asset management |  | Rolling |
 | Cerity Partners | [Summer 2027 Wealth Management Intern](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Grand-Rapids-MI/Summer-2027-Wealth-Management-Intern_R956) | Grand Rapids, MI | Wealth management |  | Rolling |
 | Charles River Associates | [Analyst Intern (Labor & Employment practice) - Winter/Spring 2027](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8243522) | Multiple | Consulting & economics | 2027, 2028 | Rolling |
@@ -658,6 +669,7 @@ If the list is useful, a star helps other students find it.
 | Verition | [2027 Internship - AI Associate: Equity Long/Short](https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5275320007) | Multiple | Asset management |  | Rolling |
 | Verition | [2027 Investment Internship (US)](https://job-boards.greenhouse.io/veritiongroupllcinternships/jobs/5260165007) | Multiple | Asset management |  | Rolling |
 | Vestwell | [2027 Summer Internship Program](https://job-boards.greenhouse.io/vestwell/jobs/8039992003) | Multiple | Other |  | Rolling |
+| Victory Capital | [Equity Investment Associate Intern Summer 2027](https://recruiting.ultipro.com/VIC1003/JobBoard/11134378-1d50-0a15-afaf-715c22796301/OpportunityDetail?opportunityId=9aff33a8-825b-40e9-ba06-ed006d4913ad) | Boston, MA | Asset management |  | Rolling |
 | Voloridge | [Quantitative Research Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) | Jupiter, FL | Quant |  | Rolling |
 | Voloridge | [Quantitative Trading Intern 2027](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009) | Jupiter, FL | Quant |  | Rolling |
 | Voya Investment Management | [Summer 2027 Accounting Intern](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Accounting-Intern_JR0033188) | Remote | Accounting & audit |  | Rolling |
@@ -681,7 +693,7 @@ If the list is useful, a star helps other students find it.
 | Wintrust | [2027 Summer Internship: Wealth Management](https://wintrust.wd1.myworkdayjobs.com/Search/job/Chicago-IL/Wintrust-2027-Summer-Internship--Wealth-Management_261937) | Chicago, IL | Wealth management |  | Rolling |
 | Wintrust | [Wintrust 2027 Summer Internship: Finance/Accounting](https://wintrust.wd1.myworkdayjobs.com/Search/job/Rosemont-IL/Wintrust-2027-Summer-Internship--Finance-Accounting_261941-1) | Rosemont, IL | Accounting & audit |  | Rolling |
 
-## Summer 2028 finance internships (108)
+## Summer 2028 finance internships (109)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
@@ -689,6 +701,7 @@ If the list is useful, a star helps other students find it.
 | PwC | [Tax - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2028_757656WD) | Multiple | Accounting & audit |  | Nov 24, 2026 |
 | Deloitte | [Audit & Assurance – Intern – Financial Statement Audit (Japanese Services Group) – Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Financial-Statement-Audit-Japanese-Services-Group-Winter-2028/368640) | Multiple | Accounting & audit |  | Nov 29, 2026 |
 | Yale Investments Office | [2028 Summer Analyst](https://job-boards.greenhouse.io/yaleinvestmentsoffice/jobs/7988961003) | New Haven, CT | Asset management |  | Nov 30, 2026 |
+| Ardea Partners | [2028 Investment Banking Summer Analyst (New York)](https://jobs.ashbyhq.com/ardea-partners/4d9a30ba-a359-4062-a5ae-80d51311d959) | New York, NY | Investment banking |  | Dec 1, 2026 |
 | Perella Weinberg Partners | [2028 Restructuring Advisory Summer Analyst – NY](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1124-2028-Restructuring-Advisory-Summer-Analyst-NY/en-GB) | New York, NY | Investment banking | 2029 | Dec 1, 2026 |
 | Wells Fargo | [2028 Investment Banking Summer Internship – Early Careers (Houston)](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479) | Houston, TX | Investment banking | 2029 | Dec 14, 2026 |
 | Houlihan Lokey | [2028 Summer Financial Analyst - Capital Solutions (Class of 2029)](https://hl.wd1.myworkdayjobs.com/Campus/job/Los-Angeles-CA-USA/XMLNAME-2028-Summer-Financial-Analyst---Capital-Solutions--Class-of-2029----Los-Angeles-Private-Debt-Advisory_R3689) | Los Angeles, CA | Investment banking | 2029 | Dec 18, 2026 |
@@ -728,6 +741,7 @@ If the list is useful, a star helps other students find it.
 | BMO | [Middle Market M&A Internship - Minneapolis, MN (Summer 2028)](https://bmo.wd3.myworkdayjobs.com/External/job/Minneapolis-MN-USA/Middle-Market-M-A-Internship---Minneapolis--MN--Summer-2028-_R260031876-1) | Minneapolis, MN | Investment banking |  | Jan 3, 2027 |
 | BMO | [Middle Market M&A Internship - Seattle, WA (Summer 2028)](https://bmo.wd3.myworkdayjobs.com/External/job/Seattle-WA-USA/Middle-Market-M-A-Internship---Seattle--WA--Summer-2028-_R260031878-3) | Seattle, WA | Investment banking |  | Jan 3, 2027 |
 | Perella Weinberg Partners | [2028 US Advisory Summer Analyst – NY, CHI, FL, LA, SF](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1123-2028-US-Advisory-Summer-Analyst-NY-CHI-FL-LA-SF/en-GB) | Multiple | Investment banking | 2029 | Jan 5, 2027 |
+| Clearsight Advisors | [2028 Summer Analyst Program](https://clearsightadvisors.com/careers/) | Multiple | Investment banking |  | Jan 10, 2027 |
 | Lazard | [2028 Summer Analyst - Boston Technology](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/6750) | Boston, MA | Investment banking | 2029 | Jan 15, 2027 |
 | Lazard | [2028 Summer Analyst - Charlotte Technology](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/6751) | Charlotte, NC | Investment banking | 2029 | Jan 15, 2027 |
 | Lazard | [2028 Summer Analyst - Lazard CL: New York Private Capital Advisory](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/6801) | New York, NY | Investment banking | 2029 | Jan 15, 2027 |
@@ -768,7 +782,6 @@ If the list is useful, a star helps other students find it.
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Technology, Media & Telecom Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2038-2028-Investment-Banking-Summer-Analyst-Program-San-Francisco-Technology-Media-Telecom-Group/en-GB) | San Francisco, CA | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Technology, Media & Telecom Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2045-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Technology-Media-Telecom-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Toronto](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2042-2028-Investment-Banking-Summer-Analyst-Program-Toronto/en-GB) | Toronto, ON | Investment banking | 2029 | Rolling |
-| Jefferies | [2028 Investment Banking Summer Analyst Program, New York Generalist](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2032-2028-Investment-Banking-Summer-Analyst-Program-New-York-Generalist/en-GB) | New York, NY | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Aerospace, Defense & Government Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2047-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Consumer & Retail Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2048-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Consumer-Retail-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Industrials Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2040-2028-Investment-Banking-Summer-Analyst-Program-Boston-Industrials-Group/en-GB) | Boston, MA | Investment banking | 2029 | Rolling |
@@ -841,13 +854,10 @@ If the list is useful, a star helps other students find it.
 | Federal Reserve Bank of Chicago | [Summer 2027 Intern - Economic Research](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern---Economic-Research---Chicago_R-0000033628-1) | Chicago, IL | Consulting & economics | 2028, 2029, 2030 | Rolling |
 | Federal Reserve Bank of Chicago | [Summer 2027 Intern-Data Science and Business Analytics](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609) | Chicago, IL | Quant | 2028, 2029, 2030 | Rolling |
 
-## Open to sophomores, class of 2029 (188)
+## Open to sophomores, class of 2029 (184)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Bellingham-WA/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Bellingham--WA_R-41216) | Bellingham, WA | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Albany-OR/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Albany--OR_R-41217) | Albany, OR | Wealth management | 2028, 2029 | Nov 21, 2026 |
-| KeyBank | [Summer 2027 Key Investment Services Internship (Certified Financial Planner Track)](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Toledo-OH/Summer-2027-Key-Investment-Services-Internship--Certified-Financial-Planner-Track----Toledo--OH_R-41225) | Toledo, OH | Wealth management | 2028, 2029 | Nov 21, 2026 |
 | Scotiabank | [2027 Canada UpLIFTED: Women in Finance Development Program](https://jobs.scotiabank.com/job/Toronto-2027-Canada-UpLIFTED-Women-in-Finance-Development-Program-ON/607808317/) | Toronto, ON | Corporate finance | 2029, 2030 | Nov 23, 2026 |
 | Fiserv | [2027 Finance & Accounting Internship](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/XMLNAME-2027-Finance---Accounting-Internship---Alpharetta_R-10403556) | Alpharetta, GA | Accounting & audit | 2028, 2029 | Nov 29, 2026 |
 | Jefferies | [U.S. Women in Research Mentorship Program](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2024-Class-of-2029-U-S-Women-in-Research-Mentorship-Program/en-GB) | New York, NY | Equity research | 2029 | Nov 29, 2026 |
@@ -1003,7 +1013,6 @@ If the list is useful, a star helps other students find it.
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Technology, Media & Telecom Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2038-2028-Investment-Banking-Summer-Analyst-Program-San-Francisco-Technology-Media-Telecom-Group/en-GB) | San Francisco, CA | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Technology, Media & Telecom Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2045-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Technology-Media-Telecom-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst Program – Toronto](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2042-2028-Investment-Banking-Summer-Analyst-Program-Toronto/en-GB) | Toronto, ON | Investment banking | 2029 | Rolling |
-| Jefferies | [2028 Investment Banking Summer Analyst Program, New York Generalist](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/2032-2028-Investment-Banking-Summer-Analyst-Program-New-York-Generalist/en-GB) | New York, NY | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Aerospace, Defense & Government Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2047-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Aerospace-Defense-Government-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Consumer & Retail Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2048-2028-Investment-Banking-Summer-Analyst-Program-Charlotte-Consumer-Retail-Group/en-GB) | Charlotte, NC | Investment banking | 2029 | Rolling |
 | Jefferies | [2028 Investment Banking Summer Analyst, Industrials Group](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2040-2028-Investment-Banking-Summer-Analyst-Program-Boston-Industrials-Group/en-GB) | Boston, MA | Investment banking | 2029 | Rolling |
@@ -1034,12 +1043,10 @@ If the list is useful, a star helps other students find it.
 | The Riverside Company | [2027 Summer Internship, Fundraising & Investor Relations](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927520002) | New York, NY | Asset management | 2028, 2029 | Rolling |
 | UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) | Charlottesville, VA | Asset management | 2029 | Rolling |
 
-## Other internships (232)
+## Other internships (244)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| TD | [Risk Management - Small Business Banking Offers - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Small-Business-Banking-Offers---Intern---Co-Op_R_1522533-1) | Toronto, ON | Risk & compliance |  | Nov 21, 2026 |
-| TD | [Risk Management - Market Risk, Interest Rate Risk and P&L Attribution - Intern / Co-Op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Market-Risk--Interest-Rate-Risk-and-P-L-Attribution---Intern---Co-Op_R_1522539-1) | Toronto, ON | Risk & compliance |  | Nov 22, 2026 |
 | RBC Royal Bank | [Relationship Manager Intern, Commercial Financial Services (Manitoba)](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1300-PEMBINA-HWYWINNIPEG/Relationship-Manager-Intern--Commercial-Financial-Services_R-0000192743) | Multiple | Credit & lending |  | Nov 23, 2026 |
 | RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LANGLEY-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000192413) | Langley, BC | Credit & lending |  | Nov 25, 2026 |
 | Northwestern Mutual | [Underwriting Operations & Field Engagement Intern, Year round](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Field-Engagement---Experience-Intern--Year-round_JR-46183) | Milwaukee, WI | Operations |  | Nov 27, 2026 |
@@ -1092,6 +1099,20 @@ If the list is useful, a star helps other students find it.
 | Baird | [Wealth Planning Intern (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Rolling |
 | Brookfield | [Intern, Accounting ~ Real Estate (12 Months)](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Accounting---Real-Estate--12-Months-_R2053583) | New York, NY | Accounting & audit |  | Rolling |
 | Brookfield | [Intern, Global Client Group](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Global-Client-Group_R2053582) | New York, NY | Asset management |  | Rolling |
+| Calamos Investments | [Corporate Accounting Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=1269407f-27be-4e94-933d-accfb69ef1da) | Naperville, IL | Accounting & audit |  | Rolling |
+| Calamos Investments | [Fund Administration Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=140a0289-925c-400a-8410-ac1b6db0206b) | Chicago, IL | Operations |  | Rolling |
+| Calamos Investments | [Fund Administration Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=e0f4bbd5-8bc3-4a2b-a807-a19133a8ce37) | Naperville, IL | Operations |  | Rolling |
+| Calamos Investments | [Investment Operations Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=f9ed6451-4497-47a9-b647-9fcb977e8361) | Naperville, IL | Operations |  | Rolling |
+| Calamos Investments | [Product Development Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=78d5645f-037c-4bf3-8c39-dbf9f070080d) | Multiple | Asset management |  | Rolling |
+| Calamos Investments | [Product Reporting Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=2812594b-baa8-4323-a318-57dfcc0e4054) | Naperville, IL | Asset management |  | Rolling |
+| Calamos Investments | [Research Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=4b6ae47d-988c-48a9-be54-686e5bdd50e7) | Multiple | Asset management |  | Rolling |
+| Calamos Investments | [Sales Support Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=02fc2703-dc90-47f4-8f2f-ac23ff4298fd) | Chicago, IL | Client service & sales |  | Rolling |
+| Calamos Investments | [Sales Support Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=91687e7e-d43e-46a1-a30a-ff4d795cc964) | Naperville, IL | Client service & sales |  | Rolling |
+| Calamos Investments | [Sales Support Intern - RIA](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=29b20720-164a-4c42-9582-788cd266dcfc) | New York, NY | Client service & sales |  | Rolling |
+| Calamos Investments | [Strategy and Deals Intern](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=58aeed64-ee9e-44eb-8ece-ee5299103703) | Chicago, IL | Corporate finance |  | Rolling |
+| Calamos Investments | [Wealth Management Intern - Investments](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=852b0e5e-b290-41e1-bc64-7aec9aa3c864) | Chicago, IL | Wealth management |  | Rolling |
+| Calamos Investments | [Wealth Management Intern – Data Analytics & Client Service](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=2245eb78-875e-4c95-87d9-61205a27580d) | Chicago, IL | Wealth management |  | Rolling |
+| Calamos Investments | [Wealth Management Intern – Financial Planning](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=6b299014-5f9a-41c5-af04-4443898d5c50) | Chicago, IL | Wealth management |  | Rolling |
 | Cboe | [Enterprise Strategy & Corporate Development Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Enterprise-Strategy---Corporate-Development-Intern_R-4805) | Multiple | Corporate finance |  | Rolling |
 | Cboe | [Marketing Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Marketing-Intern_R-4709-1) | Chicago, IL | Other |  | Rolling |
 | Cboe | [Quant & Data Analytics Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708) | Chicago, IL | Quant |  | Rolling |
@@ -1276,8 +1297,6 @@ If the list is useful, a star helps other students find it.
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
 | BMO | [BMO Capital Markets New Grad 2027 Investment Banking Analyst, Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/BMO-Capital-Markets-New-Grad-2027-Investment-Banking-Analyst--Montreal_R260021146-1) | Montreal, QC | Investment banking | 2027 | Nov 22, 2026 |
-| RBC Royal Bank | [Fund Analyst](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Fund-Analyst_R-0000192672-1) | Toronto, ON | Asset management |  | Nov 22, 2026 |
-| TD | [Analyst - CIB Credit - CM&T, TD Securities](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Analyst---CIB-Credit---CM-T--TD-Securities_R_1523074) | New York, NY | Credit & lending |  | Nov 22, 2026 |
 | Wells Fargo | [Corporate Banking Analyst, Fund Finance Portfolio Management](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Corporate-Banking-Analyst---Fund-Finance-Portfolio-Management_R-585144) | Charlotte, NC | Credit & lending |  | Nov 22, 2026 |
 | Santander | [CIB Emerging Markets & Foreign Exchange Institutional Sales Analyst](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Markets-Analyst---Institutional-Sales_Req1626323) | New York, NY | Sales & trading |  | Nov 23, 2026 |
 | Santander | [Investment Banking Analyst, Industrials](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst--Industrials_Req1610227) | New York, NY | Investment banking |  | Nov 23, 2026 |
@@ -1424,6 +1443,7 @@ If the list is useful, a star helps other students find it.
 | Broadridge | [Quality Analyst](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Coppell-TX/Quality-Analyst_JR1087374) | Coppell, TX | Operations |  | Rolling |
 | Brookfield | [2027 Financial Analyst Opportunities](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/XMLNAME-2027-Financial-Analyst-Opportunities_R2053736) | Toronto, ON | Corporate finance | 2027 | Rolling |
 | Brookfield | [Financial Analyst](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Toronto-Ontario/Financial-Analyst_R2053481) | Toronto, ON | Corporate finance |  | Rolling |
+| Calamos Investments | [Analyst, Calamos Wealth Management](https://recruiting2.ultipro.com/CAL1001CALA/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=e3bd78db-9247-4fe5-b53b-0f4c28527d68) | Chicago, IL | Wealth management |  | Rolling |
 | Cambridge Associates | [Investment Analyst Program, Dallas, January 2027 Class](https://cambridgeassociates.wd5.myworkdayjobs.com/Cambridge_Associates/job/Dallas/Investment-Analyst-Program---Dallas--TX---January-2027-Class_JR0000424-1) | Dallas, TX | Asset management | 2026 | Rolling |
 | Capital One | [Associate, Financial Analyst](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Financial-Analyst_R235475) | Toronto, ON | Corporate finance |  | Rolling |
 | Capital One | [Investment Banking Analyst - TripleTree - 2027](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bloomington-MN/Investment-Banking-Analyst---TripleTree---2027_R245935-1) | Bloomington, MN | Investment banking | 2027 | Rolling |
@@ -1693,6 +1713,7 @@ If the list is useful, a star helps other students find it.
 | UMB | [Credit Analyst - Agricultural](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/CA---Fresno----255-E-River-Park-Cir-Suite-180/Credit-Analyst---Agricultural_R-9738) | Fresno, CA | Credit & lending |  | Rolling |
 | UVIMCO | [Investment Analyst – Summer 2027](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) | Charlottesville, VA | Asset management |  | Rolling |
 | Verition | [Commodities Quant Analyst](https://job-boards.greenhouse.io/veritiongroupllc/jobs/5194339007) | Houston, TX | Quant |  | Rolling |
+| Victory Capital | [Fixed Income Quantitative Analyst](https://recruiting.ultipro.com/VIC1003/JobBoard/11134378-1d50-0a15-afaf-715c22796301/OpportunityDetail?opportunityId=db78a064-f052-4db8-b245-a980af5a37e5) | Boston, MA | Quant |  | Rolling |
 | Voya Investment Management | [Analyst - Manager Research](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Analyst---Manager-Research_JR0033023) | New York, NY | Asset management |  | Rolling |
 | Voya Investment Management | [Analyst, Securities Referential Data](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Analyst--Securities-Referential-Data_JR0033463) | Atlanta, GA | Operations |  | Rolling |
 | Voya Investment Management | [IM Entry Level Analyst Program-Jr. Portfolio Analyst](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433) | Atlanta, GA | Asset management |  | Rolling |
