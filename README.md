@@ -2,33 +2,54 @@
 
 Open internships and entry-level roles at banks, asset managers, research shops, trading firms and wealth managers, sorted by deadline. Every link goes to the firm's own posting.
 
-**1204 open roles at 260 firms as of Nov 25, 2026.** Rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
+**1210 open roles at 260 firms as of Nov 26, 2026.** Rebuilt every day from the [Sifter jobs board](https://sifter.finance/jobs). A role leaves the list when it closes or comes down from the firm's site.
 
 If the list is useful, a star helps other students find it.
 
 ## Contents
 
-- [New this week (197)](#new-this-week-197)
-- [Closing in the next seven days (69)](#closing-in-the-next-seven-days-69)
-- [Summer 2027 finance internships (399)](#summer-2027-finance-internships-399)
+- [New this week (180)](#new-this-week-180)
+- [Closing in the next seven days (78)](#closing-in-the-next-seven-days-78)
+- [Summer 2027 finance internships (398)](#summer-2027-finance-internships-398)
 - [Summer 2028 finance internships (122)](#summer-2028-finance-internships-122)
-- [Open to first-year students, class of 2030 (40)](#open-to-first-year-students-class-of-2030-40)
-- [Open to sophomores, class of 2029 (200)](#open-to-sophomores-class-of-2029-200)
-- [Other internships (236)](#other-internships-236)
-- [Full-time roles for new graduates (447)](#full-time-roles-for-new-graduates-447)
+- [Open to first-year students, class of 2030 (42)](#open-to-first-year-students-class-of-2030-42)
+- [Open to sophomores, class of 2029 (201)](#open-to-sophomores-class-of-2029-201)
+- [Other internships (239)](#other-internships-239)
+- [Full-time roles for new graduates (451)](#full-time-roles-for-new-graduates-451)
 - [Filter, save and get reminders on Sifter](#filter-save-and-get-reminders-on-sifter)
 - [Ask an AI assistant](#ask-an-ai-assistant)
 - [About this list](#about-this-list)
 
-## New this week (197)
+## New this week (180)
 
 | Firm | Role | Location | Area | Class of | Opened | Apply by |
 |---|---|---|---|---|---|---|
+| Baird | [Internship - PWM Investment Solutions (Year-Round))](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Nov 25, 2026 | Rolling |
+| Huntington | [Financial Sponsors Group Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/XMLNAME-2027-Capital-Markets-Analyst_R0074772) | Multiple | Investment banking |  | Nov 25, 2026 | Dec 2, 2026 |
+| J.P. Morgan | [US Private Bank - Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812327) | Tampa, FL | Wealth management |  | Nov 25, 2026 | Rolling |
+| Marsh McLennan | [Marsh Re: Capital & Advisory Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Capital---Advisory-Intern---New-York---College-Program-2027_R_374217) | New York, NY | Investment banking | 2028, 2029, 2030 | Nov 25, 2026 | Rolling |
+| Marsh McLennan | [Marsh Re: Securities Summer Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Securities-Summer-Intern---New-York----College-Program-2027_R_374221) | New York, NY | Investment banking | 2028 | Nov 25, 2026 | Rolling |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program - Strategic Risk Consulting Intern, Summer 2027 – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Internship-Program---Strategic-Risk-Consulting-Intern--Summer-2027---Toronto_R_374231) | Toronto, ON | Risk & compliance | 2028 | Nov 25, 2026 | Rolling |
+| Marsh McLennan | [Marsh Risk Early Career Program, Property Risk Consulting Associate – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Program--Property-Risk-Consulting-Associate---Toronto_R_374230) | Toronto, ON | Risk & compliance | 2027 | Nov 25, 2026 | Rolling |
+| Nasdaq | [Advisory Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Advisory-Analyst_R0027341) | Toronto, ON | Investment banking |  | Nov 25, 2026 | Rolling |
+| Nasdaq | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362) | Toronto, ON | Investment banking |  | Nov 25, 2026 | Rolling |
+| Pacific Life | [Junior Public Credit Analyst](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Junior-Public-Credit-Analyst_R17933) | Newport Beach, CA | Credit & lending |  | Nov 25, 2026 | Rolling |
+| PNC | [Asset Management Group Development Program Analyst/Associate](https://pnc.wd5.myworkdayjobs.com/External/job/One-PNC-Plaza-PA370/Asset-Management-Group-Development-Program-Analyst-Associate_R242549-1) | Multiple | Asset management |  | Nov 25, 2026 | Dec 1, 2026 |
+| PNC | [Asset Management Group Undergraduate Intern](https://pnc.wd5.myworkdayjobs.com/External/job/Phoenix---East-Camelback-Exec-Suite-AZ014/Asset-Management-Group-Undergraduate-Intern_R242550-1) | Multiple | Asset management |  | Nov 25, 2026 | Dec 1, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1281-56-STDELTA/Client-Advisor-Intern_R-0000193464) | Delta, BC | Client service & sales |  | Nov 25, 2026 | Dec 9, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SEPT-LES-Quebec-Canada/Client-Advisor-Intern_R-0000193542-1) | Sept-Îles, QC | Client service & sales |  | Nov 25, 2026 | Dec 9, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/COLLINGWOOD-Ontario-Canada/Client-Advisor-Intern_R-0000193555-1) | Collingwood, ON | Client service & sales |  | Nov 25, 2026 | Dec 10, 2026 |
+| Santander | [2027 Internal Audit Summer Program - New York](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Internal-Audit-Summer-Program---New-York_Req1636536) | New York, NY | Accounting & audit | 2027, 2028 | Nov 25, 2026 | Dec 2, 2026 |
+| TD | [Risk Analyst (5849)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Analyst--5849-_R_1523717) | Toronto, ON | Risk & compliance |  | Nov 25, 2026 | Dec 9, 2026 |
+| U.S. Bank | [Financial Analyst – Corporate Treasury](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735) | Minneapolis, MN | Corporate finance |  | Nov 25, 2026 | Dec 1, 2026 |
+| Vanguard | [Investment Product Analyst, Cross-Category](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Investment-Product-Analyst--Cross-Category_184225) | Toronto, ON | Asset management |  | Nov 25, 2026 | Jan 8, 2027 |
 | Ardian | [Secondaries & Primaries Intern – September 2027 I NYC](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---September-2027-I-NYC_JR1002354) | New York, NY | Asset management |  | Nov 24, 2026 | Rolling |
 | Baird | [Internship – Private Wealth Management (Abilene, TX Summer 2027)](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1) | Abilene, TX | Wealth management | 2028, 2029, 2030 | Nov 24, 2026 | Rolling |
 | Bank of America | [Merrill Advisor Development Program - Financial Advisor: Baltimore & Associates Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Baltimore/Merrill-Advisor-Development-Program---Financial-Advisor--Baltimore---Associates-Market_26041253) | Multiple | Wealth management |  | Nov 24, 2026 | Rolling |
 | Bank of America | [Merrill Wealth Management Client Associate – Advisor Development Program: Oklahoma Market](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Smith/Merrill-Wealth-Management-Client-Associate---Advisor-Development-Program--Oklahoma-Market_26043789) | Fort Smith, AR | Wealth management |  | Nov 24, 2026 | Rolling |
 | BMO | [Commercial Banking Rotational Internship (Office of Chief Data & Analytics, Business Enablement and Strategic Initiatives), Summer 2027 - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Commercial-Banking-Rotational-Internship--Office-of-Chief-Data---Analytics--Business-Enablement-and-Strategic-Initiatives---Summer-2027---4-Months_R260032429-1) | Toronto, ON | Other |  | Nov 24, 2026 | Dec 27, 2026 |
+| BNY | [2027 BNY Analyst Program – Credit and Trading - (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84368) | New York, NY | Credit & lending | 2026, 2027 | Nov 24, 2026 | Rolling |
+| BNY | [2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84372) | Pittsburgh, PA | Credit & lending | 2026, 2027 | Nov 24, 2026 | Rolling |
 | CAIS | [Alternative Investments - Internal Analyst](https://job-boards.greenhouse.io/cais/jobs/8949770002) | New York, NY | Wealth management |  | Nov 24, 2026 | Rolling |
 | Charles Schwab | [2027 Treasury Modeling Intern](https://career-schwab.icims.com/jobs/126255/2027-treasury-modeling-intern/job) | Lone Tree, CO | Corporate finance |  | Nov 24, 2026 | Dec 1, 2026 |
 | Deutsche Bank | [Equity Sales & Trading, Equity Distribution Analyst](https://db.wd3.myworkdayjobs.com/DBWebsite/job/New-York-1-Columbus-Circle/Equity-Sales---Trading--Equity-Distribution-Analyst_R0459583) | New York, NY | Sales & trading |  | Nov 24, 2026 | Rolling |
@@ -47,6 +68,7 @@ If the list is useful, a star helps other students find it.
 | Kroll | [Intern, Transfer Pricing](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21015487) | Boston, MA | Consulting & economics | 2028 | Nov 24, 2026 | Rolling |
 | Manulife | [Summer Intern 2027 - Standards Assurance and Risk Monitoring](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Standards-Assurance-and-Risk-Monitoring_JR26071467) | Toronto, ON | Risk & compliance |  | Nov 24, 2026 | Dec 14, 2026 |
 | Manulife | [Winter Co-op 2027 - Canadian Operations Analyst (8 Months)](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Canadian-Operations-Analyst--8-Months-_JR26091403) | Multiple | Operations |  | Nov 24, 2026 | Nov 27, 2026 |
+| Morgan Stanley | [Overnight Non-Dollar Fixed Income Sales & Trading Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549801550887) | Multiple | Sales & trading |  | Nov 24, 2026 | Rolling |
 | Nasdaq | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Capital-Markets-Analyst_R0027329) | New York, NY | Investment banking |  | Nov 24, 2026 | Rolling |
 | Northwestern Mutual | [Public Investments Quantitative Analyst Intern, Summer 2027](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Milwaukee, WI | Quant |  | Nov 24, 2026 | Dec 1, 2026 |
 | Principal | [Intern - Client Experience (Investment Ops)](https://careers.principal.com/jobs/56949) | Des Moines, IA | Client service & sales |  | Nov 24, 2026 | Rolling |
@@ -170,7 +192,6 @@ If the list is useful, a star helps other students find it.
 | Galaxy | [2027 Finance (Treasury) Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266835004) | New York, NY | Corporate finance |  | Nov 19, 2026 | Rolling |
 | Galaxy | [2027 Ventures Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266798004) | New York, NY | Asset management |  | Nov 19, 2026 | Rolling |
 | Golub Capital | [Shared Services Summer Internship Program](https://golubcapital.wd501.myworkdayjobs.com/Golub_Capital_Careers/job/Chicago/Shared-Services-Summer-Internship-Program_R-12173) | Chicago, IL | Operations |  | Nov 19, 2026 | Rolling |
-| J.P. Morgan | [Wholesale Credit Risk Analyst, Commercial & Investment Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802555) | Houston, TX | Credit & lending |  | Nov 19, 2026 | Nov 25, 2026 |
 | JLL | [Analyst, Brokerage](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Analyst--Brokerage_REQ546085) | Columbus, OH | Other |  | Nov 19, 2026 | Jan 1, 2027 |
 | KKR | [Portfolio Construction & Asset Allocation Analyst / Associate (Private Market)](https://job-boards.greenhouse.io/stage/jobs/6256172004) | New York, NY | Asset management |  | Nov 19, 2026 | Rolling |
 | Lincoln International | [Summer Analyst Intern, Valuations & Opinions Group (2027)](https://job-boards.greenhouse.io/lincolninternational/jobs/8402833) | Multiple | Investment banking |  | Nov 19, 2026 | Rolling |
@@ -183,50 +204,11 @@ If the list is useful, a star helps other students find it.
 | S&P Global | [Summer Intern, Fixed Income Pricing](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Summer-Intern--Fixed-Income-Pricing_332613-2) | New York, NY | Other |  | Nov 19, 2026 | Rolling |
 | Stout | [2028 Investment Banking Summer Analyst](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/XMLNAME-2028-Investment-Banking-Summer-Analyst_r2283) | Chicago, IL | Investment banking |  | Nov 19, 2026 | Rolling |
 | Truist | [Treasury Sales Analyst](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Treasury-Sales-Analyst_R0122043) | Multiple | Client service & sales |  | Nov 19, 2026 | Rolling |
-| AllianceBernstein | [Risk Analyst](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Risk-Analyst_R0020289-1) | Nashville, TN | Risk & compliance |  | Nov 18, 2026 | Rolling |
-| American Express | [Bilingual Credit Analyst](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016654) | Toronto, ON | Credit & lending |  | Nov 18, 2026 | Dec 4, 2026 |
-| Broadridge | [Quality Analyst](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Coppell-TX/Quality-Analyst_JR1087374) | Coppell, TX | Operations |  | Nov 18, 2026 | Rolling |
-| Dimensional Fund Advisors | [Analyst / Associate, Global Client Group (Broker Dealer)](https://dimensional.wd5.myworkdayjobs.com/DFA_Careers/job/Austin/Analyst---Associate--Global-Client-Group--Broker-Dealer-_2026-9102) | Austin, TX | Wealth management |  | Nov 18, 2026 | Rolling |
-| Fidelity Investments | [Associate Analyst, Bank Loan](https://fmr.wd1.myworkdayjobs.com/FidelityCareers/job/Merrimack-NH/Associate-Analyst--Bank-Loan_2129001) | Merrimack, NH | Credit & lending |  | Nov 18, 2026 | Rolling |
-| Fidelity Investments | [Intern, Risk](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Intern--Risk_2135243) | Boston, MA | Risk & compliance |  | Nov 18, 2026 | Nov 30, 2026 |
-| Fifth Third | [Aerospace & Defense Sponsor Coverage Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Los-Angeles-CA/Aerospace---Defense-Sponsor-Coverage-Analyst_R75150) | Los Angeles, CA | Investment banking |  | Nov 18, 2026 | Dec 31, 2026 |
-| Freddie Mac | [Analyst - Closing Coordinator](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Analyst---Closing-Coordinator_JR17825) | McLean, VA | Credit & lending |  | Nov 18, 2026 | Rolling |
-| iCapital | [Corporate Finance - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) | New York, NY | Corporate finance | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Data Solutions - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) | Stamford, CT | Wealth management | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Fund Finance - 2027 Summer Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938097002) | New York, NY | Asset management | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Fund Origination - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938112002) | New York, NY | Investment banking | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [iCapital Marketplace - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8950295002) | New York, NY | Wealth management | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Investor Relations - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938467002) | New York, NY | Corporate finance | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Risk Services - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938447002) | New York, NY | Risk & compliance | 2028, 2029 | Nov 18, 2026 | Rolling |
-| iCapital | [Transactional Operations - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938135002) | New York, NY | Operations | 2028, 2029 | Nov 18, 2026 | Rolling |
-| J.P. Morgan | [Loan Origination Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804318) | Newark, DE | Credit & lending |  | Nov 18, 2026 | Rolling |
-| J.P. Morgan | [Trade Lifecycle Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808600) | Newark, DE | Operations |  | Nov 18, 2026 | Rolling |
-| J.P. Morgan | [U.S. Private Bank - AWM Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810615) | Fort Lauderdale, FL | Wealth management |  | Nov 18, 2026 | Rolling |
-| JLL | [Accounting Summer 2027 Internship - Westmont, IL](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Westmont-IL/Accounting-Summer-2027-Internship---Westmont--IL_REQ547122) | Westmont, IL | Accounting & audit |  | Nov 18, 2026 | Jan 18, 2027 |
-| JLL | [Performance Management Summer 2027 Internship- Chicago, IL](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Performance-Management-Summer-2027-Internship--Chicago--IL_REQ546148) | Chicago, IL | Other |  | Nov 18, 2026 | Dec 30, 2026 |
-| Marsh McLennan | [Early Career Insurance Account Manager Training Program](https://mmc.wd1.myworkdayjobs.com/MMC/job/Clearwater---Starcrest/Early-Career-Insurance-Account-Manager-Training-Program_R_373135) | Clearwater, FL | Client service & sales |  | Nov 18, 2026 | Rolling |
-| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Calgary](https://mmc.wd1.myworkdayjobs.com/MMC/job/Calgary---3rd-Avenue-SW/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Calgary_R_373167) | Calgary, AB | Risk & compliance | 2028 | Nov 18, 2026 | Dec 9, 2026 |
-| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Montreal](https://mmc.wd1.myworkdayjobs.com/MMC/job/Montreal---1-Place-Ville-Marie/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Montreal_R_373170) | Montreal, QC | Risk & compliance | 2028 | Nov 18, 2026 | Dec 9, 2026 |
-| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Vancouver](https://mmc.wd1.myworkdayjobs.com/MMC/job/Vancouver---Burrard/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Vancouver_R_373162) | Vancouver, BC | Risk & compliance | 2028 | Nov 18, 2026 | Dec 9, 2026 |
-| Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Calgary](https://mmc.wd1.myworkdayjobs.com/MMC/job/Calgary---3rd-Avenue-SW/Marsh-Risk-Early-Career-Program--New-Grads-2027---Calgary_R_373188) | Calgary, AB | Risk & compliance | 2027 | Nov 18, 2026 | Dec 9, 2026 |
-| Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Montreal](https://mmc.wd1.myworkdayjobs.com/MMC/job/Montreal---1-Place-Ville-Marie/Marsh-Risk-Early-Career-Program--New-Grads-2027---Montreal_R_373191) | Montreal, QC | Risk & compliance | 2027 | Nov 18, 2026 | Dec 9, 2026 |
-| Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Program--New-Grads-2027---Toronto_R_373183) | Toronto, ON | Risk & compliance | 2027 | Nov 18, 2026 | Rolling |
-| Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Vancouver](https://mmc.wd1.myworkdayjobs.com/MMC/job/Vancouver---Burrard/Marsh-Risk-Early-Career-Program--New-Grads-2027---Vancouver_R_373186) | Vancouver, BC | Risk & compliance | 2027 | Nov 18, 2026 | Dec 9, 2026 |
-| Nuveen / TIAA | [2027 Early Talent Internship: Corporate Strategy & Planning](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/XMLNAME-2027-Early-Talent-Internship--Corporate-Strategy---Planning_R261000129) | New York, NY | Corporate finance |  | Nov 18, 2026 | Rolling |
-| PwC | [Silicon Valley - Tax - Associate - Summer/Fall 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax---Associate---Summer-Fall-2027_5292693EIB) | San Jose, CA | Accounting & audit |  | Nov 18, 2026 | Dec 11, 2026 |
-| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1444-BOUL-TALBOTSAGUENAY/Client-Advisor-Intern_R-0000192059-1) | Saguenay, QC | Client service & sales |  | Nov 18, 2026 | Dec 31, 2026 |
-| RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WEYBURN-Saskatchewan-Canada/Relationship-Manager-Intern--Business-Markets_R-0000192930-1) | Weyburn, SK | Credit & lending |  | Nov 18, 2026 | Dec 2, 2026 |
-| S&P Global | [Analyst, Index Management](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332964-1) | New York, NY | Quant |  | Nov 18, 2026 | Rolling |
-| Santander | [Analyst, Leveraged Finance Capital Markets](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Analyst--Leveraged-Finance-Capital-Markets_Req1635573) | New York, NY | Credit & lending |  | Nov 18, 2026 | Dec 31, 2026 |
-| UMB | [Credit Analyst - Agricultural](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/CA---Fresno----255-E-River-Park-Cir-Suite-180/Credit-Analyst---Agricultural_R-9738) | Fresno, CA | Credit & lending |  | Nov 18, 2026 | Rolling |
-| UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) | Charlottesville, VA | Asset management | 2029 | Nov 18, 2026 | Rolling |
-| Voya Investment Management | [IM Entry Level Analyst Program-Jr. Portfolio Analyst](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/IM-Entry-Level-Analyst-Program-Jr-Portfolio-Analyst_JR0033433) | Atlanta, GA | Asset management |  | Nov 18, 2026 | Rolling |
 
-## Closing in the next seven days (69)
+## Closing in the next seven days (78)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| J.P. Morgan | [Wholesale Credit Risk Analyst, Commercial & Investment Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802555) | Houston, TX | Credit & lending |  | Nov 25, 2026 |
 | BMO | [Portfolio Analyst](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Portfolio-Analyst_R260030421) | Multiple | Credit & lending |  | Nov 26, 2026 |
 | BOK Financial | [Municipal Credit Research Analyst](https://jobs.bokf.com/job/Plano-Municipal-Credit-Research-Analyst-TX-75023/1445119500/) | Plano, TX | Credit & lending |  | Nov 26, 2026 |
 | Sun Life | [US Tax Intern - Summer 2027 Intern](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/US-Tax-Intern---Summer-2027-Intern_JR00128150-2) | Wellesley Hills, MA | Accounting & audit |  | Nov 26, 2026 |
@@ -265,7 +247,6 @@ If the list is useful, a star helps other students find it.
 | Fidelity Investments | [Intern, Risk](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Intern--Risk_2135243) | Boston, MA | Risk & compliance |  | Nov 30, 2026 |
 | John Hancock | [Product & Business Development Analyst- Private Wealth](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Product---Business-Development-Analyst--Private-Wealth_JR26091463) | Boston, MA | Wealth management |  | Nov 30, 2026 |
 | KeyBanc Capital Markets | [2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | Cleveland, OH | Quant | 2028 | Nov 30, 2026 |
-| KPMG | [Audit Intern, Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=140156) | Providence, RI | Accounting & audit |  | Nov 30, 2026 |
 | PwC | [Audit - Japanese Business Network (JBN) - Associate - Winter 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network--JBN----Associate---Winter-2027_764784WD) | Rosemont, IL | Accounting & audit |  | Nov 30, 2026 |
 | Santander | [Investment Banking, Analyst - Energy](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UCM---Houston/Investment-Banking--Analyst---Energy_Req1632217-2) | New York, NY | Investment banking | 2025 | Nov 30, 2026 |
 | U.S. Bank | [BTIG: Investment Banking, Investment Banker, Analyst (Energy & Infrastructure)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Dallas-TX/BTIG--Investment-Banking--Investment-Banker--Analyst--Energy---Infrastructure-_2026-0033965) | Dallas, TX | Investment banking |  | Nov 30, 2026 |
@@ -279,6 +260,8 @@ If the list is useful, a star helps other students find it.
 | Charles Schwab | [2027 Treasury Modeling Intern](https://career-schwab.icims.com/jobs/126255/2027-treasury-modeling-intern/job) | Lone Tree, CO | Corporate finance |  | Dec 1, 2026 |
 | Northwestern Mutual | [Public Investments Quantitative Analyst Intern, Summer 2027](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Milwaukee, WI | Quant |  | Dec 1, 2026 |
 | Perella Weinberg Partners | [2028 Restructuring Advisory Summer Analyst – NY](https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1124-2028-Restructuring-Advisory-Summer-Analyst-NY/en-GB) | New York, NY | Investment banking | 2029 | Dec 1, 2026 |
+| PNC | [Asset Management Group Development Program Analyst/Associate](https://pnc.wd5.myworkdayjobs.com/External/job/One-PNC-Plaza-PA370/Asset-Management-Group-Development-Program-Analyst-Associate_R242549-1) | Multiple | Asset management |  | Dec 1, 2026 |
+| PNC | [Asset Management Group Undergraduate Intern](https://pnc.wd5.myworkdayjobs.com/External/job/Phoenix---East-Camelback-Exec-Suite-AZ014/Asset-Management-Group-Undergraduate-Intern_R242550-1) | Multiple | Asset management |  | Dec 1, 2026 |
 | RBC Capital Markets | [Analyst - Credit and Transaction Management (CTM)](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst---Credit-and-Transaction-Management--CTM-_R-0000190704-1) | Toronto, ON | Credit & lending |  | Dec 1, 2026 |
 | RBC Capital Markets | [Analyst/Associate, Debt Capital Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/New-York-New-York-United-States-of-America/Analyst-Associate--Debt-Capital-Markets_R-0000191995) | New York, NY | Investment banking |  | Dec 1, 2026 |
 | RBC Royal Bank | [Banking Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/6168-NO-3-RDRICHMOND/Banking-Advisor-Intern_R-0000193287) | Richmond, BC | Client service & sales |  | Dec 1, 2026 |
@@ -292,11 +275,20 @@ If the list is useful, a star helps other students find it.
 | State Street | [State Street Investment Management- Client Portfolio Management - 2027 Summer Internship](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Client-Portfolio-Management---2027-Summer-Internship_R-801215-1) | Boston, MA | Asset management |  | Dec 1, 2026 |
 | State Street | [State Street Product Office - Summer Internship 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Office---Summer-Internship-2027_R-801221) | Boston, MA | Asset management |  | Dec 1, 2026 |
 | State Street | [State Street Product Team - Alternatives Business - 2027 Summer Internship](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Team---Alternatives-Business---2027-Summer-Internship_R-801222) | Boston, MA | Asset management |  | Dec 1, 2026 |
+| U.S. Bank | [Financial Analyst – Corporate Treasury](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735) | Minneapolis, MN | Corporate finance |  | Dec 1, 2026 |
 | Deloitte | [Tax - Tax Consultant - Japanese Services Group - Summer 2027, Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-Japanese-Services-Group-Summer-2027-Winter-2028/371088) | Multiple | Accounting & audit | 2027 | Dec 2, 2026 |
 | Deloitte | [Tax - Tax Delivery Consultant - International Tax/Transfer Pricing - Summer 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Delivery-Consultant-International-Tax-Transfer-Pricing-Summer-2027/364871) | Gilbert, AZ | Accounting & audit |  | Dec 2, 2026 |
+| Huntington | [Financial Sponsors Group Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/XMLNAME-2027-Capital-Markets-Analyst_R0074772) | Multiple | Investment banking |  | Dec 2, 2026 |
 | RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WEYBURN-Saskatchewan-Canada/Relationship-Manager-Intern--Business-Markets_R-0000192930-1) | Weyburn, SK | Credit & lending |  | Dec 2, 2026 |
+| Santander | [2027 Internal Audit Summer Program - New York](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Internal-Audit-Summer-Program---New-York_Req1636536) | New York, NY | Accounting & audit | 2027, 2028 | Dec 2, 2026 |
+| Baird | [Private Wealth Management Intern (Madison, Summer 2027)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059) | Madison, WI | Wealth management | 2027, 2028, 2029 | Dec 3, 2026 |
+| BMO | [U.S. Banking Ignite Internship Program - Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/US-Banking-Ignite-Internship-Program---Summer-2027_R260030865-1) | Chicago, IL | Credit & lending | 2029 | Dec 3, 2026 |
+| Nationwide | [2027 Corporate Tax Winter-Spring Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/XMLNAME-2027-Corporate-Tax-Winter-Spring-Internship_099981) | Columbus, OH | Accounting & audit |  | Dec 3, 2026 |
+| RBC Capital Markets | [Analyst/ Associate, Global Investment Banking - Project Advisory & Finance](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Analyst--Associate--Global-Investment-Banking---Project-Advisory---Finance_R-0000192921-1) | Calgary, AB | Investment banking |  | Dec 3, 2026 |
+| RBC Royal Bank | [Financial Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000193009) | Hamilton, ON | Wealth management |  | Dec 3, 2026 |
+| TIAA | [2027 Early Talent Internship: Marketing & Communications, Sports Sponsorships, Folds of Honor](https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Internship--Marketing---Communications--Sports-Sponsorships--Folds-of-Honor_R261000122-1) | Charlotte, NC | Other | 2028, 2029 | Dec 3, 2026 |
 
-## Summer 2027 finance internships (399)
+## Summer 2027 finance internships (398)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
@@ -319,7 +311,6 @@ If the list is useful, a star helps other students find it.
 | Empower | [Summer 2027 Intern - Financial Sales](https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2027-Intern---Financial-Sales--Hartford-_R0062367) | Hartford, CT | Client service & sales | 2028 | Nov 30, 2026 |
 | Empower | [Summer 2027 Intern - Financial Sales](https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2027-Intern---Financial-Sales--Greenwood-Village--CO-_R0062368) | Greenwood Village, CO | Client service & sales | 2028 | Nov 30, 2026 |
 | KeyBanc Capital Markets | [2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) | Cleveland, OH | Quant | 2028 | Nov 30, 2026 |
-| KPMG | [Audit Intern, Summer 2027](https://www.kpmguscareers.com/jobdetail/?jobId=140156) | Providence, RI | Accounting & audit |  | Nov 30, 2026 |
 | Charles Schwab | [2027 Treasury Modeling Intern](https://career-schwab.icims.com/jobs/126255/2027-treasury-modeling-intern/job) | Lone Tree, CO | Corporate finance |  | Dec 1, 2026 |
 | Northwestern Mutual | [Public Investments Quantitative Analyst Intern, Summer 2027](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | Milwaukee, WI | Quant |  | Dec 1, 2026 |
 | Santander | [2027 Internal Audit Summer Program – Miami](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Internal-Audit-Summer-Program---Miami_Req1636553) | Miami, FL | Accounting & audit | 2027, 2028 | Dec 1, 2026 |
@@ -331,6 +322,7 @@ If the list is useful, a star helps other students find it.
 | State Street | [State Street Investment Management- Client Portfolio Management - 2027 Summer Internship](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Client-Portfolio-Management---2027-Summer-Internship_R-801215-1) | Boston, MA | Asset management |  | Dec 1, 2026 |
 | State Street | [State Street Product Office - Summer Internship 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Office---Summer-Internship-2027_R-801221) | Boston, MA | Asset management |  | Dec 1, 2026 |
 | State Street | [State Street Product Team - Alternatives Business - 2027 Summer Internship](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Team---Alternatives-Business---2027-Summer-Internship_R-801222) | Boston, MA | Asset management |  | Dec 1, 2026 |
+| Santander | [2027 Internal Audit Summer Program - New York](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Internal-Audit-Summer-Program---New-York_Req1636536) | New York, NY | Accounting & audit | 2027, 2028 | Dec 2, 2026 |
 | Baird | [Private Wealth Management Intern (Madison, Summer 2027)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059) | Madison, WI | Wealth management | 2027, 2028, 2029 | Dec 3, 2026 |
 | BMO | [U.S. Banking Ignite Internship Program - Summer 2027](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/US-Banking-Ignite-Internship-Program---Summer-2027_R260030865-1) | Chicago, IL | Credit & lending | 2029 | Dec 3, 2026 |
 | Nationwide | [2027 Corporate Tax Winter-Spring Internship](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/XMLNAME-2027-Corporate-Tax-Winter-Spring-Internship_099981) | Columbus, OH | Accounting & audit |  | Dec 3, 2026 |
@@ -562,7 +554,6 @@ If the list is useful, a star helps other students find it.
 | FHLBank Dallas | [2027 Summer Market Risk Intern](https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/Market-Risk-Intern_REQ-449) | Irving, TX | Risk & compliance |  | Rolling |
 | Fidelity Investments | [Summer 2027 Student-Athlete Internship Program](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Summer-2027-Student-Athlete-Internship-Program_2134170-1) | Multiple | Other | 2028, 2029 | Rolling |
 | Fidelity Investments | [Summer 2027 Undergraduate Internship - Client Relations](https://fmr.wd1.myworkdayjobs.com/targeted/job/Albuquerque-NM/Summer-2027-Undergraduate-Internship---Client-Relations--Albuquerque_2134949) | Albuquerque, NM | Client service & sales | 2028 | Rolling |
-| Fisher Investments | [Client Services Internship (Summer 2027)](https://jobs-fishercareers.icims.com/jobs/18004/client-services-internship-%28summer-2027%29/job) | Camas, WA | Wealth management | 2028 | Rolling |
 | Fisher Investments | [Sales Internship (Summer 2027)](https://jobs-fishercareers.icims.com/jobs/18003/sales-internship-%28summer-2027%29/job) | Plano, TX | Client service & sales |  | Rolling |
 | Fisher Investments | [Sales Internship (Summer 2027)](https://jobs-fishercareers.icims.com/jobs/18005/sales-internship-%28summer-2027%29/job) | Camas, WA | Wealth management | 2028 | Rolling |
 | Five Rings | [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York, NY | Quant | 2028 | Rolling |
@@ -571,7 +562,6 @@ If the list is useful, a star helps other students find it.
 | Galaxy | [2027 Finance (Treasury) Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266835004) | New York, NY | Corporate finance |  | Rolling |
 | Galaxy | [2027 FP&A Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6267160004) | New York, NY | Corporate finance |  | Rolling |
 | Galaxy | [2027 Research Intern](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004) | New York, NY | Equity research | 2028 | Rolling |
-| Galaxy | [2027 Risk Intern](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004) | New York, NY | Risk & compliance | 2028 | Rolling |
 | Galaxy | [2027 Sales and Trading Internships](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004) | New York, NY | Sales & trading | 2028 | Rolling |
 | Galaxy | [2027 Ventures Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266798004) | New York, NY | Asset management |  | Rolling |
 | GCM Grosvenor | [2027 ARS Research Summer Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7992997003) | Chicago, IL | Asset management | 2028 | Rolling |
@@ -587,7 +577,6 @@ If the list is useful, a star helps other students find it.
 | Harrison Street | [Summer 2027 Accounting Intern](https://jobs.lever.co/harrisonst/270f8c23-2116-4be7-87d2-1c5d16be42e7) | Chicago, IL | Accounting & audit |  | Rolling |
 | Houlihan Lokey | [2027 Summer Financial Analyst, Corporate Valuation Advisory Services (Complex Securities)](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2027-Summer-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services--Complex-Securities---Multiple-Locations_R3632) | Multiple | Investment banking |  | Rolling |
 | Hudson River Trading | [Data Scientist Intern - 2027](https://job-boards.greenhouse.io/wehrtyou/jobs/8257369) | New York, NY | Quant |  | Rolling |
-| Huntington | [Summer 2027 Audit Internship](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Audit-Internship_R0075312) | Multiple | Accounting & audit | 2028, 2029 | Rolling |
 | IBM | [2027 Finance Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=129102) | Armonk, NY | Corporate finance |  | Rolling |
 | IBM | [Corporate Development Intern, Global M&A (2027)](https://careers.ibm.com/careers/JobDetail?jobId=139671) | New York, NY | Corporate finance |  | Rolling |
 | iCapital | [Corporate Finance - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) | New York, NY | Corporate finance | 2028, 2029 | Rolling |
@@ -624,6 +613,9 @@ If the list is useful, a star helps other students find it.
 | LPL Financial | [Intern 2027 - Business Development](https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/Intern-2027---Business-Development_R-052926) | Multiple | Client service & sales | 2028 | Rolling |
 | LPL Financial | [Intern 2027 - Transition Support Partner](https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/Intern-2027---Transition-Support-Partner_R-053345) | Fort Mill, SC | Operations | 2028 | Rolling |
 | LPL Financial | [Intern 2027 - Wealth Advisory Group](https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/Internship-Summer-2027-Wealth-Advisor-Group_R-052554) | Fort Mill, SC | Wealth management | 2028 | Rolling |
+| Marsh McLennan | [Marsh Re: Capital & Advisory Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Capital---Advisory-Intern---New-York---College-Program-2027_R_374217) | New York, NY | Investment banking | 2028, 2029, 2030 | Rolling |
+| Marsh McLennan | [Marsh Re: Securities Summer Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Securities-Summer-Intern---New-York----College-Program-2027_R_374221) | New York, NY | Investment banking | 2028 | Rolling |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program - Strategic Risk Consulting Intern, Summer 2027 – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Internship-Program---Strategic-Risk-Consulting-Intern--Summer-2027---Toronto_R_374231) | Toronto, ON | Risk & compliance | 2028 | Rolling |
 | Marsh McLennan | [Summer Intern, Rising Talent in Finance (RTiF) Internal Audit, 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Summer-Intern--Rising-Talent-in-Finance--RTiF--Internal-Audit--New-York--2027_R_366589) | New York, NY | Accounting & audit | 2028 | Rolling |
 | Millennium | [2027 Compliance Intern](https://career.mlp.com/careers/job/755957778878) | Miami, FL | Risk & compliance | 2028 | Rolling |
 | Nasdaq | [Technical Research Intern - 2027 Summer Internship](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Richmond---Virginia/Technical-Research-Intern---2027-Summer-Internship_R0027292) | Richmond, VA | Equity research |  | Rolling |
@@ -639,11 +631,8 @@ If the list is useful, a star helps other students find it.
 | OMERS | [Student, US Tax Accountant (Summer 2027, 12 Months)](https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Student--US-Tax-Accountant--Summer-2027--12-Months-_JR-8469) | Toronto, ON | Accounting & audit |  | Rolling |
 | PEAK6 | [Trading Bootcamp Micro-Internship - Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057-1) | Chicago, IL | Sales & trading | 2028 | Rolling |
 | PEAK6 | [Trading Internship for Women+ Summer 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Internship-for-Women--Summer-2027_JR105061) | Chicago, IL | Sales & trading | 2028 | Rolling |
-| PIMCO | [2027 Summer Intern - Business Development Support Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Business-Development-Support-Analyst--US_R106627) | Newport Beach, CA | Asset management | 2028 | Rolling |
-| PIMCO | [2027 Summer Intern - Client Management Account Analyst, Latin America](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Client-Management-Account-Analyst--Latin-America_R106625) | New York, NY | Asset management | 2028 | Rolling |
 | PIMCO | [2027 Summer Intern - Client Management Account Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Client-Management-Account-Analyst--US_R106624) | Multiple | Asset management | 2028 | Rolling |
 | PIMCO | [2027 Summer Intern - Global Wealth Management, Internal Sales Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Internal-Sales-Analyst--US_R106758) | Austin, TX | Wealth management | 2028 | Rolling |
-| PIMCO | [2027 Summer Intern - Global Wealth Management, Strategic Accounts Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/XMLNAME-2027-Summer-Intern---Global-Wealth-Management--Strategic-Accounts-Analyst--US--_R106770) | Multiple | Wealth management | 2028 | Rolling |
 | PIMCO | [2027 Summer Intern - Trade Support Analyst](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trade-Support-Analyst_R106744) | Newport Beach, CA | Asset management | 2028 | Rolling |
 | PIMCO | [2027 Summer Intern, Private Strategies Analyst, US (Residential Mortgages)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Private-Strategies-Analyst--US--Residential-Mortgages--NPB-_R106748) | Newport Beach, CA | Asset management | 2028 | Rolling |
 | PIMCO | [2027 Summer Intern, Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) | Newport Beach, CA | Sales & trading | 2028 | Rolling |
@@ -653,9 +642,10 @@ If the list is useful, a star helps other students find it.
 | RBC Capital Markets | [2027 Global Markets Summer Analyst, Securitization Financing Portfolio Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) | Wilmington, DE | Credit & lending | 2028 | Rolling |
 | Robinhood | [Corporate Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/robinhood/jobs/8357464) | New York, NY | Corporate finance |  | Rolling |
 | Rockefeller Capital Management | [2027 Summer Analyst - Investment Banking](https://careers.rockco.com/jobs/5420) | New York, NY | Investment banking | 2028 | Rolling |
+| Schonfeld | [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | New York, NY | Sales & trading |  | Rolling |
+| Schonfeld | [2027 Core Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) | Miami, FL | Operations |  | Rolling |
 | Schonfeld | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York, NY | Quant |  | Rolling |
 | Schonfeld | [2027 Fund Accounting Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) | New York, NY | Accounting & audit |  | Rolling |
-| State of Wisconsin Investment Board | [Structured Products Intern (Summer 2027)](https://swib.wd12.myworkdayjobs.com/EXT/job/Madison-Wisconsin/Structured-Products-Intern_R-001335) | Madison, WI | Asset management |  | Rolling |
 | StepStone Group | [2027 Private Equity Infrastructure & Real Assets Co-op Analyst](https://job-boards.greenhouse.io/stepstone/jobs/8239658) | Toronto, ON | Asset management | 2028 | Rolling |
 | StepStone Group | [2027 Real Estate Private Equity Advisory Summer Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8097993) | Cleveland, OH | Asset management | 2028 | Rolling |
 | StepStone Group | [2027 Venture Capital Summer Analyst](https://www.stepstonegroup.com/current-opportunities/?gh_jid=8094340) | Baltimore, MD | Asset management | 2028 | Rolling |
@@ -670,6 +660,7 @@ If the list is useful, a star helps other students find it.
 | The Hartford | [2027 Summer Intern - Internal Sales Desk](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Internal-Sales-Desk_R2627499) | Wayne, PA | Asset management |  | Rolling |
 | The Riverside Company | [2027 Summer Internship, Compliance](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927820002) | New York, NY | Risk & compliance | 2028, 2029 | Rolling |
 | The Riverside Company | [2027 Summer Internship, Fundraising & Investor Relations](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927520002) | New York, NY | Asset management | 2028, 2029 | Rolling |
+| Third Bridge | [Associate, Client Services - Summer 2027](https://job-boards.greenhouse.io/thirdbridge/jobs/4996870101) | New York, NY | Consulting & economics |  | Rolling |
 | Tower Research Capital | [Quantitative Trader/Researcher Intern - Summer 2027](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) | Multiple | Quant |  | Rolling |
 | Trillium Trading | [Summer 2027 Discretionary Trading Internship](https://job-boards.greenhouse.io/trillium/jobs/5076003007) | New York, NY | Sales & trading | 2028 | Rolling |
 | Trillium Trading | [Summer 2027 Discretionary Trading Internship](https://job-boards.greenhouse.io/trillium/jobs/5076017007) | Chicago, IL | Sales & trading | 2028 | Rolling |
@@ -827,7 +818,7 @@ If the list is useful, a star helps other students find it.
 | Stout | [2028 Investment Banking Summer Analyst](https://stout.wd5.myworkdayjobs.com/Stout-Student-Careers/job/Chicago-IL/XMLNAME-2028-Investment-Banking-Summer-Analyst_r2283) | Chicago, IL | Investment banking |  | Rolling |
 | UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) | Charlottesville, VA | Asset management | 2029 | Rolling |
 
-## Open to first-year students, class of 2030 (40)
+## Open to first-year students, class of 2030 (42)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
@@ -837,6 +828,7 @@ If the list is useful, a star helps other students find it.
 | New York Life | [2027 Compliance, Audit & Risk Management Summer Internship](https://newyorklife.eightfold.ai/careers/job/44683321) | Multiple | Accounting & audit | 2028, 2029, 2030 | Dec 31, 2026 |
 | New York Life | [2027 Financial Products, Strategy & Modeling Summer Internship](https://newyorklife.eightfold.ai/careers/job/44683322) | Multiple | Corporate finance | 2028, 2029, 2030 | Dec 31, 2026 |
 | BMO | [First Nations / Inuit / Métis – Commercial Banking Intern, Summer 2027 (Co-op/Internship) - 4 months](https://bmo.wd3.myworkdayjobs.com/External/job/Winnipeg-MB-CAN/First-Nations---Inuit---Mtis---Commercial-Banking-Intern--Summer-2027--Co-op-Internship----4-months_R260030526) | Winnipeg, MB | Credit & lending | 2029, 2030 | Jan 3, 2027 |
+| Baird | [Internship - PWM Investment Solutions (Year-Round))](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Compliance (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2) | Milwaukee, WI | Risk & compliance | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Marketing (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Marketing--Year-Round-_R20261002-1) | Milwaukee, WI | Other | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Private Wealth Management (Abilene, TX Summer 2027)](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1) | Abilene, TX | Wealth management | 2028, 2029, 2030 | Rolling |
@@ -871,8 +863,9 @@ If the list is useful, a star helps other students find it.
 | Corient | [Wealth Management Intern (Summer 2027, Shaker Heights)](https://ci.wd3.myworkdayjobs.com/CORIENT_EXTERNAL_CAREER-SITE/job/US-OH-Shaker-Heights-3401-Tuttle-0290/Wealth-Management-Intern--Summer-2027--Shaker-Heights-_JR6157) | Shaker Heights, OH | Wealth management | 2028, 2029, 2030 | Rolling |
 | Corient | [Wealth Management Intern (Summer 2027, St. Petersburg)](https://ci.wd3.myworkdayjobs.com/CORIENT_EXTERNAL_CAREER-SITE/job/St-Petersburg-FL/Wealth-Management-Intern--Summer-2027--St-Petersburg-_JR6164) | St. Petersburg, FL | Wealth management | 2028, 2029, 2030 | Rolling |
 | Federal Reserve Bank of Chicago | [Summer 2027 Intern-Data Science and Business Analytics](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609) | Chicago, IL | Quant | 2028, 2029, 2030 | Rolling |
+| Marsh McLennan | [Marsh Re: Capital & Advisory Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Capital---Advisory-Intern---New-York---College-Program-2027_R_374217) | New York, NY | Investment banking | 2028, 2029, 2030 | Rolling |
 
-## Open to sophomores, class of 2029 (200)
+## Open to sophomores, class of 2029 (201)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
@@ -960,6 +953,7 @@ If the list is useful, a star helps other students find it.
 | Alpine Investors | [Summer 2028 Investing Internship (interest form)](https://jobs.ashbyhq.com/alpine-internships/15c49853-cf48-4356-a01c-bae4bcaa1dbb) | San Francisco, CA | Asset management | 2029 | Rolling |
 | Ardian | [Secondaries & Primaries Intern - Summer 2028 / SF](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/San-Francisco/Secondaries---Primaries-Intern---Summer-2028---SF_JR1002268) | San Francisco, CA | Asset management | 2029 | Rolling |
 | Ardian | [Secondaries & Primaries Intern – Summer 2028 I NYC](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Secondaries---Primaries-Intern---Summer-2028-I-NYC_JR1002267) | New York, NY | Asset management | 2029 | Rolling |
+| Baird | [Internship - PWM Investment Solutions (Year-Round))](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Compliance (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2) | Milwaukee, WI | Risk & compliance | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Marketing (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Marketing--Year-Round-_R20261002-1) | Milwaukee, WI | Other | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Private Wealth Management (Abilene, TX Summer 2027)](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1) | Abilene, TX | Wealth management | 2028, 2029, 2030 | Rolling |
@@ -1030,7 +1024,6 @@ If the list is useful, a star helps other students find it.
 | FT Partners | [2028 Summer Analyst, Investment Banking (New York)](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8928899002) | New York, NY | Investment banking | 2029 | Rolling |
 | FT Partners | [2028 Summer Analyst, Investment Banking (San Francisco)](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8929161002) | San Francisco, CA | Investment banking | 2029 | Rolling |
 | Houlihan Lokey | [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Boston/New York Digital Infrastructure](https://hl.wd1.myworkdayjobs.com/Campus/job/Boston-MA-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Boston-New-York-Digital-Infrastructure_R3722-1) | Multiple | Investment banking | 2029 | Rolling |
-| Huntington | [Summer 2027 Audit Internship](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Audit-Internship_R0075312) | Multiple | Accounting & audit | 2028, 2029 | Rolling |
 | iCapital | [Corporate Finance - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8937982002) | New York, NY | Corporate finance | 2028, 2029 | Rolling |
 | iCapital | [Data Solutions - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) | Stamford, CT | Wealth management | 2028, 2029 | Rolling |
 | iCapital | [Evergreen Private Fund Solutions - Summer 2027 Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8938080002) | New York, NY | Asset management | 2028, 2029 | Rolling |
@@ -1064,6 +1057,7 @@ If the list is useful, a star helps other students find it.
 | Lincoln International | [2028 Summer Analyst Intern, M&A (sophomore program)](https://job-boards.greenhouse.io/lincolninternational/jobs/8348465) | Multiple | Investment banking | 2029 | Rolling |
 | LionTree | [2028 US Advisory Summer Analyst](https://job-boards.greenhouse.io/liontree/jobs/5250586007) | New York, NY | Investment banking | 2029 | Rolling |
 | LionTree | [2028 US Advisory Summer Analyst](https://job-boards.greenhouse.io/liontree/jobs/5254192007) | San Francisco, CA | Investment banking | 2029 | Rolling |
+| Marsh McLennan | [Marsh Re: Capital & Advisory Intern - New York - College Program 2027](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Marsh-Re--Capital---Advisory-Intern---New-York---College-Program-2027_R_374217) | New York, NY | Investment banking | 2028, 2029, 2030 | Rolling |
 | New York Life | [2027 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://newyorklife.eightfold.ai/careers/job/44603085) | Philadelphia, PA | Operations | 2028, 2029 | Rolling |
 | New York Life | [2027 Group Benefit Solutions (GBS) SS&M - Marketing Summer Intern](https://newyorklife.eightfold.ai/careers/job/44359923) | Chattanooga, TN | Other | 2028, 2029 | Rolling |
 | New York Life | [2027 New York Life Direct Summer Internship Program - Finance](https://newyorklife.eightfold.ai/careers/job/44450224) | Tampa, FL | Corporate finance | 2028, 2029 | Rolling |
@@ -1077,7 +1071,7 @@ If the list is useful, a star helps other students find it.
 | The Riverside Company | [2027 Summer Internship, Fundraising & Investor Relations](https://job-boards.greenhouse.io/theriversidecompany/jobs/8927520002) | New York, NY | Asset management | 2028, 2029 | Rolling |
 | UVIMCO | [2028 Summer Investment Intern](https://job-boards.greenhouse.io/uvimco/jobs/5486467008) | Charlottesville, VA | Asset management | 2029 | Rolling |
 
-## Other internships (236)
+## Other internships (239)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
@@ -1088,6 +1082,7 @@ If the list is useful, a star helps other students find it.
 | Jefferies | [U.S. Women in Research Mentorship Program](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/2024-Class-of-2029-U-S-Women-in-Research-Mentorship-Program/en-GB) | New York, NY | Equity research | 2029 | Nov 29, 2026 |
 | Avantis Investors | [Avantis Intern](https://americancentury.wd5.myworkdayjobs.com/AvantisCareers/job/Los-Angeles-California/Avantis-Intern_R0005805) | Los Angeles, CA | Asset management | 2028 | Nov 30, 2026 |
 | Fidelity Investments | [Intern, Risk](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Intern--Risk_2135243) | Boston, MA | Risk & compliance |  | Nov 30, 2026 |
+| PNC | [Asset Management Group Undergraduate Intern](https://pnc.wd5.myworkdayjobs.com/External/job/Phoenix---East-Camelback-Exec-Suite-AZ014/Asset-Management-Group-Undergraduate-Intern_R242550-1) | Multiple | Asset management |  | Dec 1, 2026 |
 | RBC Royal Bank | [Banking Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/6168-NO-3-RDRICHMOND/Banking-Advisor-Intern_R-0000193287) | Richmond, BC | Client service & sales |  | Dec 1, 2026 |
 | RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WEYBURN-Saskatchewan-Canada/Relationship-Manager-Intern--Business-Markets_R-0000192930-1) | Weyburn, SK | Credit & lending |  | Dec 2, 2026 |
 | RBC Royal Bank | [Financial Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000193009) | Hamilton, ON | Wealth management |  | Dec 3, 2026 |
@@ -1095,6 +1090,9 @@ If the list is useful, a star helps other students find it.
 | RBC Royal Bank | [Relationship Manager, Business Markets - Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/LONDON-Ontario-Canada/Relationship-Manager--Business-Markets---Intern_R-0000192905) | Ontario | Credit & lending |  | Dec 4, 2026 |
 | RBC Royal Bank | [Relationship Manager Intern, Business Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BURNABY-British-Columbia-Canada/Relationship-Manager-Intern--Business-Markets_R-0000193317) | Burnaby, BC | Client service & sales |  | Dec 7, 2026 |
 | RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/BRANTFORD-Ontario-Canada/Client-Advisor-Intern_R-0000193241) | Brantford, ON | Client service & sales |  | Dec 8, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/1281-56-STDELTA/Client-Advisor-Intern_R-0000193464) | Delta, BC | Client service & sales |  | Dec 9, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/SEPT-LES-Quebec-Canada/Client-Advisor-Intern_R-0000193542-1) | Sept-Îles, QC | Client service & sales |  | Dec 9, 2026 |
+| RBC Royal Bank | [Client Advisor Intern](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/COLLINGWOOD-Ontario-Canada/Client-Advisor-Intern_R-0000193555-1) | Collingwood, ON | Client service & sales |  | Dec 10, 2026 |
 | UMB | [Corporate Tax Intern](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/Kansas-City-MO/Corporate-Tax-Intern_R-9689) | Kansas City, MO | Accounting & audit |  | Dec 19, 2026 |
 | EP Wealth Advisors | [Estate Planning Intern](https://jobs.lever.co/epwealth/9620e011-fbcd-48be-b8ea-935543dc057c) | Torrance, CA | Wealth management |  | Dec 31, 2026 |
 | EP Wealth Advisors | [M&A Partnerships Intern](https://jobs.lever.co/epwealth/cf36aa2e-831e-4cc6-9085-c140a484dba2) | Torrance, CA | Corporate finance |  | Dec 31, 2026 |
@@ -1116,7 +1114,6 @@ If the list is useful, a star helps other students find it.
 | S&P Global | [Ratings Analytical Intern](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Colorado-US/Ratings-Analytical-Intern_332371) | Colorado | Credit & lending | 2028 | Apr 5, 2027 |
 | Deloitte | [Consultative Offerings - Investment Banking Summer Analyst - Corporate Finance](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Investment-Banking-Summer-Analyst-Corporate-Finance/364072) | Multiple | Investment banking | 2028, 2029 | May 1, 2027 |
 | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://job-boards.greenhouse.io/alphasights/jobs/7909591) | New York, NY | Consulting & economics | 2028 | Rolling |
-| Andreessen Horowitz | [Research Intern, Frontier](https://job-boards.greenhouse.io/a16z/jobs/8046730003) | New York, NY | Other |  | Rolling |
 | Ankura | [University Intern, Disputes & Economics](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Los-Angeles-CA/University-Intern--Disputes---Economics_R104987) | Los Angeles, CA | Consulting & economics | 2028 | Rolling |
 | Ankura | [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/Washington-DC/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104991) | Washington, DC | Consulting & economics | 2028 | Rolling |
 | Ankura | [University Intern, Disputes & Economics - Financial Services Advisory](https://ankura.wd5.myworkdayjobs.com/Ankura/job/New-York-NY/University-Intern--Disputes---Economics---Financial-Services-Advisory_R104990) | New York, NY | Consulting & economics | 2028 | Rolling |
@@ -1129,6 +1126,7 @@ If the list is useful, a star helps other students find it.
 | Aon | [Risk Capital & Reinsurance Summer Internship (RMI)](https://jobs.aon.com/jobs/113654) | Multiple | Risk & compliance |  | Rolling |
 | Ardian | [Fund Finance Infrastructure Intern - December 2026 (Montreal)](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Montreal/Fund-Finance-Infrastructure-Intern---December-2026---MTL_JR1002272) | Montreal, QC | Corporate finance |  | Rolling |
 | Athene | [Annuity Product Support Intern](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Annuity-Product-Support-Intern_R255158) | West Des Moines, IA | Operations |  | Rolling |
+| Baird | [Internship - PWM Investment Solutions (Year-Round))](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Compliance (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2) | Milwaukee, WI | Risk & compliance | 2028, 2029, 2030 | Rolling |
 | Baird | [Internship – Marketing (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Marketing--Year-Round-_R20261002-1) | Milwaukee, WI | Other | 2028, 2029, 2030 | Rolling |
 | Baird | [Wealth Planning Intern (Year-Round)](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) | Milwaukee, WI | Wealth management | 2028, 2029, 2030 | Rolling |
@@ -1184,7 +1182,6 @@ If the list is useful, a star helps other students find it.
 | FHLBank Chicago | [Long Term Internship - Marketing & Events](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Marketing---Events_R2600438) | Chicago, IL | Other |  | Rolling |
 | FHLBank Chicago | [MPF Servicing Portfolio Management Intern](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/MPF-Servicing-Portfolio-Management-Intern_R2600490-1) | Chicago, IL | Operations |  | Rolling |
 | FHLBank Chicago | [Summer Internship - Collateral Operations & Safekeeping](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Collateral-Operations---Safekeeping_R2600455) | Chicago, IL | Operations |  | Rolling |
-| FHLBank Chicago | [Summer Internship - Credit Risk](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Credit-Risk_R2600436) | Chicago, IL | Credit & lending |  | Rolling |
 | FHLBank Chicago | [Summer Internship - Enterprise Risk Management](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437) | Chicago, IL | Risk & compliance |  | Rolling |
 | FHLBank Chicago | [Summer Internship - Finance Transformation & Systems](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Finance-Transformation---Systems_R2600460) | Chicago, IL | Corporate finance |  | Rolling |
 | FHLBank Chicago | [Summer Internship - Financial Reporting](https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Financial-Reporting_R2600440) | Chicago, IL | Accounting & audit |  | Rolling |
@@ -1318,11 +1315,10 @@ If the list is useful, a star helps other students find it.
 | Voya Investment Management | [Summer Student, Real Estate](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Real-Estate_JR0033366) | Atlanta, GA | Asset management |  | Rolling |
 | Wealth Enhancement Group | [Wealth Management Intern](https://wealthenhancement.wd1.myworkdayjobs.com/WEG_Careers/job/Winter-Springs-FL/Intern_R-102867) | Winter Springs, FL | Wealth management |  | Rolling |
 
-## Full-time roles for new graduates (447)
+## Full-time roles for new graduates (451)
 
 | Firm | Role | Location | Area | Class of | Apply by |
 |---|---|---|---|---|---|
-| J.P. Morgan | [Wholesale Credit Risk Analyst, Commercial & Investment Bank](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802555) | Houston, TX | Credit & lending |  | Nov 25, 2026 |
 | BMO | [Portfolio Analyst](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Portfolio-Analyst_R260030421) | Multiple | Credit & lending |  | Nov 26, 2026 |
 | BOK Financial | [Municipal Credit Research Analyst](https://jobs.bokf.com/job/Plano-Municipal-Credit-Research-Analyst-TX-75023/1445119500/) | Plano, TX | Credit & lending |  | Nov 26, 2026 |
 | PwC | [San Juan - Digital Assurance & Transparency (DAT) - Associate - Summer/Fall 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/PR-San-Juan/San-Juan---Digital-Assurance---Transparency--DAT----Associate---Summer-Fall-2027_52926236EIB) | San Juan, PR | Accounting & audit |  | Nov 27, 2026 |
@@ -1342,11 +1338,14 @@ If the list is useful, a star helps other students find it.
 | U.S. Bank | [Financial Analyst](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Financial-Analyst_2026-0036587) | Saint Paul, MN | Corporate finance |  | Nov 30, 2026 |
 | BDO | [Analyst, Tax Equity Advisors, BDO Capital Advisors (Winter 2027)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14827) | Multiple | Investment banking |  | Dec 1, 2026 |
 | Broadridge | [Pricing Analyst (Hybrid, Brentwood, LI, NYC, or Newark, NJ)](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Edgewood-NY/Pricing-Analyst--Hybrid--Brentwood--LI--NYC--or-Newark--NJ-_JR1086643) | Edgewood, NY | Sales & trading |  | Dec 1, 2026 |
+| PNC | [Asset Management Group Development Program Analyst/Associate](https://pnc.wd5.myworkdayjobs.com/External/job/One-PNC-Plaza-PA370/Asset-Management-Group-Development-Program-Analyst-Associate_R242549-1) | Multiple | Asset management |  | Dec 1, 2026 |
 | RBC Capital Markets | [Analyst - Credit and Transaction Management (CTM)](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst---Credit-and-Transaction-Management--CTM-_R-0000190704-1) | Toronto, ON | Credit & lending |  | Dec 1, 2026 |
 | RBC Capital Markets | [Analyst/Associate, Debt Capital Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/New-York-New-York-United-States-of-America/Analyst-Associate--Debt-Capital-Markets_R-0000191995) | New York, NY | Investment banking |  | Dec 1, 2026 |
 | Scotiabank | [Analyst or Associate, Investment Banking, Corporate Finance Advisory - Toronto, ON](https://jobs.scotiabank.com/job/Toronto-Analyst-or-Associate%2C-Investment-Banking%2C-Corporate-Finance-Advisory-Toronto%2C-ON-ON-M5H0B4/606471617/) | Toronto, ON | Investment banking |  | Dec 1, 2026 |
+| U.S. Bank | [Financial Analyst – Corporate Treasury](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Financial-Analyst---Corporate-Treasury_2026-0036735) | Minneapolis, MN | Corporate finance |  | Dec 1, 2026 |
 | Deloitte | [Tax - Tax Consultant - Japanese Services Group - Summer 2027, Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-Japanese-Services-Group-Summer-2027-Winter-2028/371088) | Multiple | Accounting & audit | 2027 | Dec 2, 2026 |
 | Deloitte | [Tax - Tax Delivery Consultant - International Tax/Transfer Pricing - Summer 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Delivery-Consultant-International-Tax-Transfer-Pricing-Summer-2027/364871) | Gilbert, AZ | Accounting & audit |  | Dec 2, 2026 |
+| Huntington | [Financial Sponsors Group Analyst](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/New-York-NY/XMLNAME-2027-Capital-Markets-Analyst_R0074772) | Multiple | Investment banking |  | Dec 2, 2026 |
 | RBC Capital Markets | [Analyst/ Associate, Global Investment Banking - Project Advisory & Finance](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Analyst--Associate--Global-Investment-Banking---Project-Advisory---Finance_R-0000192921-1) | Calgary, AB | Investment banking |  | Dec 3, 2026 |
 | American Express | [Bilingual Credit Analyst](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016654) | Toronto, ON | Credit & lending |  | Dec 4, 2026 |
 | TD | [Risk Analyst, Collateral Analytics](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Analyst--Collateral-Analytics--5841-_R_1523478) | Toronto, ON | Risk & compliance |  | Dec 4, 2026 |
@@ -1355,6 +1354,7 @@ If the list is useful, a star helps other students find it.
 | Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Calgary](https://mmc.wd1.myworkdayjobs.com/MMC/job/Calgary---3rd-Avenue-SW/Marsh-Risk-Early-Career-Program--New-Grads-2027---Calgary_R_373188) | Calgary, AB | Risk & compliance | 2027 | Dec 9, 2026 |
 | Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Montreal](https://mmc.wd1.myworkdayjobs.com/MMC/job/Montreal---1-Place-Ville-Marie/Marsh-Risk-Early-Career-Program--New-Grads-2027---Montreal_R_373191) | Montreal, QC | Risk & compliance | 2027 | Dec 9, 2026 |
 | Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Vancouver](https://mmc.wd1.myworkdayjobs.com/MMC/job/Vancouver---Burrard/Marsh-Risk-Early-Career-Program--New-Grads-2027---Vancouver_R_373186) | Vancouver, BC | Risk & compliance | 2027 | Dec 9, 2026 |
+| TD | [Risk Analyst (5849)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Analyst--5849-_R_1523717) | Toronto, ON | Risk & compliance |  | Dec 9, 2026 |
 | CIBC | [Associate, Commercial Banking Associate Program – New Grad - Atlantic Region](https://cibc.wd3.myworkdayjobs.com/campus/job/Halifax-NS/Associate--Commercial-Banking-Associate-Program---New-Grad---Atlantic-Region_2623442-1) | Multiple | Credit & lending | 2027 | Dec 11, 2026 |
 | Fifth Third | [SAG Credit Analyst](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Kentwood-MI/SAG-Credit-Analyst_R75081) | Multiple | Credit & lending |  | Dec 11, 2026 |
 | PwC | [Silicon Valley - Tax - Associate - Summer/Fall 2027](https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax---Associate---Summer-Fall-2027_5292693EIB) | San Jose, CA | Accounting & audit |  | Dec 11, 2026 |
@@ -1388,6 +1388,7 @@ If the list is useful, a star helps other students find it.
 | Santander | [Analyst, Leveraged Finance Capital Markets](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Analyst--Leveraged-Finance-Capital-Markets_Req1635573) | New York, NY | Credit & lending |  | Dec 31, 2026 |
 | Standard Chartered | [Financial Markets Graduate Programme - 2027](https://jobs.standardchartered.com/job/Financial-Markets-Graduate-Programme-2027/61814-en_GB) | New York, NY | Sales & trading | 2027 | Dec 31, 2026 |
 | JLL | [Analyst, Brokerage](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Analyst--Brokerage_REQ546085) | Columbus, OH | Other |  | Jan 1, 2027 |
+| Vanguard | [Investment Product Analyst, Cross-Category](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Investment-Product-Analyst--Cross-Category_184225) | Toronto, ON | Asset management |  | Jan 8, 2027 |
 | BDO | [Tax Associate, Transfer Pricing - Summer 2027 (Atlanta)](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14014) | Atlanta, GA | Accounting & audit |  | Jan 12, 2027 |
 | JLL | [Analyst - Freddie Mac Closing](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Analyst---Freddie-Mac-Closing_REQ540787) | Houston, TX | Credit & lending |  | Jan 12, 2027 |
 | J.P. Morgan | [2027 Chase Leadership Development Program, Full-Time Analyst (Winter Cohort), Consumer Bank Financial Product](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810495) | Multiple | Other | 2024, 2025, 2026 | Jan 22, 2027 |
@@ -1460,6 +1461,8 @@ If the list is useful, a star helps other students find it.
 | BNY | [2027 BNY Analyst Program - Risk and Compliance](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82276) | Lake Mary, FL | Risk & compliance | 2027 | Rolling |
 | BNY | [2027 BNY Analyst Program - Risk and Compliance](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82273) | Pittsburgh, PA | Risk & compliance | 2027 | Rolling |
 | BNY | [2027 BNY Analyst Program - Risk and Compliance](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82272) | New York, NY | Risk & compliance | 2027 | Rolling |
+| BNY | [2027 BNY Analyst Program – Credit and Trading - (New York, NY)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84368) | New York, NY | Credit & lending | 2026, 2027 | Rolling |
+| BNY | [2027 BNY Analyst Program – Credit and Trading - (Pittsburgh, PA)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84372) | Pittsburgh, PA | Credit & lending | 2026, 2027 | Rolling |
 | Bracebridge Capital | [Machine Learning Analyst](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) | Boston, MA | Quant | 2026, 2027 | Rolling |
 | Brex | [Brex Rotational Program](https://job-boards.greenhouse.io/brex/jobs/8864170002) | Vancouver, BC | Other |  | Rolling |
 | Brex | [Brex Rotational Program](https://job-boards.greenhouse.io/brex/jobs/8864176002) | Salt Lake City, UT | Other |  | Rolling |
@@ -1543,8 +1546,6 @@ If the list is useful, a star helps other students find it.
 | FT Partners | [2027 Sponsor Coverage Full-time Analyst](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8684603002) | San Francisco, CA | Investment banking |  | Rolling |
 | FT Partners | [2027 Strategic Insights Full-time Analyst](https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8687854002) | San Francisco, CA | Investment banking | 2027 | Rolling |
 | Goldman Sachs | [Operations New Analyst](https://higher.gs.com/roles/169827) | Dallas, TX | Operations |  | Rolling |
-| Greystar | [Analyst, Development](https://greystar.wd1.myworkdayjobs.com/External/job/City-Office-Dallas-Southlake-Southlake-TX/Analyst--Asset-Management_R0202487-1) | Dallas, TX | Asset management |  | Rolling |
-| Greystar | [Development Analyst](https://greystar.wd1.myworkdayjobs.com/External/job/City-Office-Excelsior-Excelsior-MN/Development-Analyst_R0197523-1) | Excelsior, MN | Asset management |  | Rolling |
 | Greystar | [FP&A Analyst](https://greystar.wd1.myworkdayjobs.com/External/job/City-Office-Charleston-Charleston-SC/FP-A-Analyst_R1026_0204871) | Charleston, SC | Corporate finance |  | Rolling |
 | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, NY | Consulting & economics | 2027 | Rolling |
 | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8716050002) | Boston, MA | Consulting & economics | 2027 | Rolling |
@@ -1581,10 +1582,7 @@ If the list is useful, a star helps other students find it.
 | J.P. Morgan | [PricingDirect Evaluator - Securitized Products Group - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803400) | New York, NY | Credit & lending |  | Rolling |
 | J.P. Morgan | [PricingDirect Evaluator - Securitized Products Group - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809457) | New York, NY | Credit & lending |  | Rolling |
 | J.P. Morgan | [Trade Lifecycle Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808600) | Newark, DE | Operations |  | Rolling |
-| J.P. Morgan | [U.S. Private Bank - AWM Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794406) | Fort Lauderdale, FL | Wealth management |  | Rolling |
-| J.P. Morgan | [U.S. Private Bank - AWM Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806815) | Miami, FL | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank - AWM Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803603) | Tulsa, OK | Wealth management |  | Rolling |
-| J.P. Morgan | [U.S. Private Bank - AWM Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810615) | Fort Lauderdale, FL | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809860) | Chicago, IL | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811225) | Raleigh, NC | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802176) | Phoenix, AZ | Wealth management |  | Rolling |
@@ -1592,6 +1590,7 @@ If the list is useful, a star helps other students find it.
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793576) | Greenwich, CT | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802935) | Seattle, WA | Wealth management |  | Rolling |
 | J.P. Morgan | [U.S. Private Bank – Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810961) | Palm Beach, FL | Wealth management |  | Rolling |
+| J.P. Morgan | [US Private Bank - Program Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210812327) | Tampa, FL | Wealth management |  | Rolling |
 | J.P. Morgan | [Wealth Management, Portfolio Construction Strategy, Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804698) | New York, NY | Wealth management |  | Rolling |
 | Jefferies | [2027 Investment Banking Analyst, Energy Group (February Start)](https://jefferies.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/1858-2027-Investment-Banking-Analyst-Houston-Energy-Group-February-Start/en-GB) | Houston, TX | Investment banking | 2027 | Rolling |
 | Jordan Park | [Analyst - Client Reporting](https://job-boards.greenhouse.io/jordanparkgroup/jobs/6270268004) | Portsmouth, NH | Asset management |  | Rolling |
@@ -1625,7 +1624,7 @@ If the list is useful, a star helps other students find it.
 | Mariner | [Wealth Planning Analyst](https://jobs.ashbyhq.com/mariner-careers/09b4186b-0fa9-4b1d-8965-1e160b0a36c8) | Florham Park, NJ | Wealth management |  | Rolling |
 | Marsh McLennan | [Early Career Insurance Account Manager Training Program](https://mmc.wd1.myworkdayjobs.com/MMC/job/Clearwater---Starcrest/Early-Career-Insurance-Account-Manager-Training-Program_R_373135) | Clearwater, FL | Client service & sales |  | Rolling |
 | Marsh McLennan | [Early Career Insurance Account Manager Training Program](https://mmc.wd1.myworkdayjobs.com/MMC/job/Fort-Lauderdale---1000-Corpora/Early-Career-Insurance-Account-Manager-Training-Program_R_361774-1) | Fort Lauderdale, FL | Client service & sales |  | Rolling |
-| Marsh McLennan | [Marsh Risk Early Career Program, New Grads 2027 – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Program--New-Grads-2027---Toronto_R_373183) | Toronto, ON | Risk & compliance | 2027 | Rolling |
+| Marsh McLennan | [Marsh Risk Early Career Program, Property Risk Consulting Associate – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Program--Property-Risk-Consulting-Associate---Toronto_R_374230) | Toronto, ON | Risk & compliance | 2027 | Rolling |
 | Marsh McLennan | [NERA Research Associate (Summer 2027 Grads)](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/NERA-Research-Associate--Summer-2027-Grads---Multiple-Locations-_R_364004-1) | Multiple | Consulting & economics | 2027 | Rolling |
 | Maven Securities | [Graduate Floor Trader 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763) | Chicago, IL | Sales & trading | 2027 | Rolling |
 | Maven Securities | [Trading Analyst (Python)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7669839) | Chicago, IL | Sales & trading |  | Rolling |
@@ -1648,6 +1647,7 @@ If the list is useful, a star helps other students find it.
 | Morgan Stanley | [Investment Analyst - Parametric](https://morganstanley.eightfold.ai/careers/job/549799412996) | Minneapolis, MN | Asset management |  | Rolling |
 | Morgan Stanley | [Investment Banking Analyst, Financial Institutions Group](https://morganstanley.eightfold.ai/careers/job/549801439186) | New York, NY | Investment banking |  | Rolling |
 | Morgan Stanley | [MSIM Growth & Innovation - Associate/Analyst](https://morganstanley.eightfold.ai/careers/job/549801294756) | New York, NY | Asset management |  | Rolling |
+| Morgan Stanley | [Overnight Non-Dollar Fixed Income Sales & Trading Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549801550887) | Multiple | Sales & trading |  | Rolling |
 | Morgan Stanley | [Private Wealth Management Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801088996) | West Conshohocken, PA | Wealth management |  | Rolling |
 | Morgan Stanley | [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801390202) | Orland Park, IL | Wealth management |  | Rolling |
 | Morgan Stanley | [Wealth Management - Fiduciary Consulting Group, Performance Analyst](https://morganstanley.eightfold.ai/careers/job/549801066615) | Greenwood Village, CO | Wealth management |  | Rolling |
@@ -1656,6 +1656,8 @@ If the list is useful, a star helps other students find it.
 | MUFG | [Analyst - Credit Underwriting and Portfolio Management - Entertainment Finance](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Los-Angeles-CA/Analyst---Credit-Underwriting-and-Portfolio-Management---Entertainment-Finance_10080667-WD) | Los Angeles, CA | Credit & lending |  | Rolling |
 | MUFG | [Analyst - Power & Utilities - Global Corporate & Investment Bank](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst---Power---Utilities---Global-Corporate---Investment-Bank_10080189-WD) | New York, NY | Investment banking |  | Rolling |
 | MUFG | [Analyst, Corporate and Investment Banking Business Unit Risk and Controls](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst--Corporate-and-Investment-Banking-Business-Unit-Risk-and-Controls_10080589-WD) | Multiple | Risk & compliance |  | Rolling |
+| Nasdaq | [Advisory Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Advisory-Analyst_R0027341) | Toronto, ON | Investment banking |  | Rolling |
+| Nasdaq | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Capital-Markets-Analyst_R0027362) | Toronto, ON | Investment banking |  | Rolling |
 | Nasdaq | [Capital Markets Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Capital-Markets-Analyst_R0027329) | New York, NY | Investment banking |  | Rolling |
 | Nasdaq | [Extended Hours Surveillance Analyst](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/WFH---Pennsylvania/Extended-Hours-Surveillance-Analyst_R0025371) | Remote | Sales & trading |  | Rolling |
 | Neuberger Berman | [Portfolio Analyst & Trader](https://nb.wd1.myworkdayjobs.com/NBCareers/job/Chicago-IL/Portfolio-Analyst---Trader_R0012814) | Chicago, IL | Asset management |  | Rolling |
@@ -1665,10 +1667,8 @@ If the list is useful, a star helps other students find it.
 | Nomura | [Analyst - Strategic Relationship Group](https://careers.nomura.com/Nomura/job/Philadelphia-Analyst-Strategic-Relationship-Group-PA-19106/1453738900/) | Philadelphia, PA | Sales & trading |  | Rolling |
 | Nomura | [Hedge Fund Credit Risk Analyst](https://careers.nomura.com/Nomura/job/New-York-Hedge-Fund-Credit-Risk-Analyst-NY-10019/1446471000/) | New York, NY | Credit & lending |  | Rolling |
 | Nomura | [Sustainability Analyst](https://careers.nomura.com/Nomura/job/Philadelphia-Sustainability-Analyst-PA-19106/1452694200/) | Philadelphia, PA | Asset management |  | Rolling |
-| Northwestern Mutual | [Analyst - Real Estate Investment](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/San-Francisco-CA-RE/Analyst---Real-Estate-Investment_JR-46231) | San Francisco, CA | Asset management |  | Rolling |
 | Old Mission | [Floor Trader - 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161) | Chicago, IL | Sales & trading | 2027 | Rolling |
 | Old Mission | [Fundamental Research Analyst - 2027 Graduate Program - (August Start)](https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d) | Chicago, IL | Equity research | 2027 | Rolling |
-| Old Mission | [Quantitative Trader – 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3) | Multiple | Quant | 2027 | Rolling |
 | Old Mission | [Quantitative Trader – 2027 Graduate Program (February Start)](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505) | Multiple | Quant | 2027 | Rolling |
 | Old National Bank | [Treasury Management Analyst](https://careers-oldnational.icims.com/jobs/20891/treasury-management-analyst/job) | Indianapolis, IN | Other |  | Rolling |
 | Old National Bank | [Treasury Management Analyst](https://careers-oldnational.icims.com/jobs/21725/treasury-management-analyst/job) | Chicago, IL | Client service & sales |  | Rolling |
@@ -1677,6 +1677,7 @@ If the list is useful, a star helps other students find it.
 | Ontario Teachers' | [Investment Analyst, Dynamic Asset Allocation, Total Fund Management](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Dynamic-Asset-Allocation--Total-Fund-Management_7302) | Toronto, ON | Asset management |  | Rolling |
 | Ontario Teachers' | [Investment Analyst, Private Capital - Financial Services](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Private-Capital---Financial-Services_7330) | Toronto, ON | Asset management |  | Rolling |
 | Optiver | [Graduate Equity Analyst (2027 Start - Chicago)](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002) | Chicago, IL | Equity research | 2027 | Rolling |
+| Pacific Life | [Junior Public Credit Analyst](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Junior-Public-Credit-Analyst_R17933) | Newport Beach, CA | Credit & lending |  | Rolling |
 | Pantheon | [Analyst / Associate, Investment](https://job-boards.greenhouse.io/pantheonpublic/jobs/8945075002) | New York, NY | Asset management |  | Rolling |
 | PEAK6 | [Trading Associate - 2027](https://peak6group.wd1.myworkdayjobs.com/PEAK6/job/Chicago-IL/Trading-Associate---2027_JR105060) | Multiple | Sales & trading | 2027 | Rolling |
 | Perella Weinberg Partners | [Analyst, Activism & Shareholder, Advisory](https://pwp.wd1.myworkdayjobs.com/PWP_Experienced_Opportunities/job/New-York/Analyst--Activism---Shareholder-Advisory--Advisory_R0000012) | New York, NY | Investment banking |  | Rolling |
@@ -1694,7 +1695,6 @@ If the list is useful, a star helps other students find it.
 | ProShares | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/proshares/jobs/6132176004) | Bethesda, MD | Asset management |  | Rolling |
 | QuadReal | [Analyst, Sustainability](https://quadreal.wd10.myworkdayjobs.com/QuadReal/job/Toronto/Analyst--Sustainability_R0006873) | Toronto, ON | Other |  | Rolling |
 | Rabobank | [Wholesale Banking Analyst](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Atlanta-GA/Wholesale-Banking-Analyst_JR_00146497) | Atlanta, GA | Investment banking |  | Rolling |
-| RBC Capital Markets | [Analyst, Global Investment Banking, Leveraged Capital Markets](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/New-York-New-York-United-States-of-America/Analyst--Global-Investment-Banking--Leveraged-Capital-Markets_R-0000192600) | New York, NY | Investment banking |  | Rolling |
 | S&P Global | [Analyst, Index Management](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Index-Management_332964-1) | New York, NY | Quant |  | Rolling |
 | S&P Global | [CREDit Graduate Program Analyst](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/CREDit-Graduate-Program-Analyst_331830-1) | New York, NY | Credit & lending | 2027 | Rolling |
 | Scotiabank | [Analyst, Corporate Finance Advisory](https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Corporate-Finance-Advisory-NY-10281/606955917/) | New York, NY | Investment banking |  | Rolling |
@@ -1719,6 +1719,7 @@ If the list is useful, a star helps other students find it.
 | Stifel | [Treasury Management Analytics Analyst](https://careers-stifel.icims.com/jobs/10982/treasury-management-analytics-analyst/job) | St. Louis, MO | Corporate finance |  | Rolling |
 | Stifel | [Venture Banking Credit Analyst (Summer 2027 Start)](https://careers-stifel.icims.com/jobs/9903/venture-banking-credit-analyst-%28summer-2027-start%29/job) | San Francisco, CA | Credit & lending |  | Rolling |
 | StoneX | [Physical Commodity Integrations Analyst](https://careers-stonex.icims.com/jobs/16964/physical-commodity-integrations-analyst/job) | West Des Moines, IA | Operations |  | Rolling |
+| StoneX | [Precious Metals Analyst](https://careers-stonex.icims.com/jobs/17324/precious-metals-analyst/job) | Miami, FL | Sales & trading | 2026 | Rolling |
 | Susquehanna | [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11693) | Bala Cynwyd, PA | Risk & compliance |  | Rolling |
 | Susquehanna | [Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11273) | Bala Cynwyd, PA | Operations |  | Rolling |
 | Susquehanna | [Sell Side Research Rotational Program: August 2027 Start](https://careers.sig.com/jobs/11434) | New York, NY | Equity research |  | Rolling |
@@ -1736,6 +1737,7 @@ If the list is useful, a star helps other students find it.
 | Trillium Trading | [Fall 2027 Discretionary Trader](https://job-boards.greenhouse.io/trillium/jobs/5191110007) | Miami, FL | Sales & trading | 2027 | Rolling |
 | Truist | [Treasury Sales Analyst](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Treasury-Sales-Analyst_R0122043) | Multiple | Client service & sales |  | Rolling |
 | Two Sigma | [Quantitative Researcher - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) | New York, NY | Quant |  | Rolling |
+| Two Sigma | [Quantitative Trader - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440) | New York, NY | Quant |  | Rolling |
 | UMB | [Credit Analyst - Agricultural](https://umb.wd1.myworkdayjobs.com/UMBExternal/job/CA---Fresno----255-E-River-Park-Cir-Suite-180/Credit-Analyst---Agricultural_R-9738) | Fresno, CA | Credit & lending |  | Rolling |
 | UVIMCO | [Investment Analyst – Summer 2027](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) | Charlottesville, VA | Asset management |  | Rolling |
 | Verition | [Commodities Quant Analyst](https://job-boards.greenhouse.io/veritiongroupllc/jobs/5194339007) | Houston, TX | Quant |  | Rolling |
@@ -1765,7 +1767,6 @@ If the list is useful, a star helps other students find it.
 | Western Alliance Bank | [2027 Commercial Banking Development Program - Credit Analyst - San Diego, CA - Corporate Administration](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/San-Diego-CA/XMLNAME-2027-Commercial-Banking-Development-Program---Credit-Analyst---San-Diego--CA---Corporate-Administration_R13870) | San Diego, CA | Credit & lending |  | Rolling |
 | Western Alliance Bank | [2027 Commercial Banking Development Program - Credit Analyst - San Jose, CA - Commercial & Industrial](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/San-Jose-CA/XMLNAME-2027-Commercial-Banking-Development-Program---Credit-Analyst---San-Jose--CA---Commercial---Industrial_R13810-2) | San Jose, CA | Credit & lending |  | Rolling |
 | Western Alliance Bank | [2027 Commercial Banking Development Program - Credit Analyst - San Jose, CA - Sponsor Finance](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/San-Jose-CA/XMLNAME-2027-Commercial-Banking-Development-Program---Credit-Analyst---San-Jose--CA---Sponsor-Finance_R14140) | San Jose, CA | Credit & lending |  | Rolling |
-| Western Alliance Bank | [2027 Commercial Banking Development Program - Specialized Mortgage Services - Phoenix, AZ](https://westernalliancebank.wd5.myworkdayjobs.com/WAB/job/Phoenix-AZ/XMLNAME-2027-Commercial-Banking-Development-Program---Specialized-Mortgage-Services---Phoenix--AZ_R13813) | Phoenix, AZ | Credit & lending |  | Rolling |
 | Wolfe Research | [Equity Research Associate, Consumer](https://wolferesearch.applytojob.com/apply/YOXfNMc7EX/Equity-Research-AssociateConsumer) | New York, NY | Equity research | 2026 | Rolling |
 | Wolverine Trading | [Quantitative Trading Analyst](https://careers.wolve.com/en/postings/eeca5bb4-977f-4a1e-ac1b-db56de416a8c) | Chicago, IL | Quant |  | Rolling |
 | Yale Investments Office | [Full-Time Analyst (start Summer 2027)](https://job-boards.greenhouse.io/yaleinvestmentsoffice/jobs/7481439003) | New Haven, CT | Asset management |  | Rolling |
